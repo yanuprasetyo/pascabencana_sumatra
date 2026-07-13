@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Monitor Berita — Pascabencana Banjir Sumatera</title>
+<title>Pemantauan Berita Pascabencana Banjir Sumatera</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
@@ -85,7 +85,7 @@ a:hover { text-decoration:underline; }
   font-size:10px; font-weight:800; letter-spacing:.5px; padding:7px 11px;
 }
 .ticker-track-outer { overflow:hidden; flex:1; }
-.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 70s linear infinite; padding:7px 0; }
+.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 250s linear infinite; padding:7px 0; }
 .ticker-wrap:hover .ticker-track { animation-play-state:paused; }
 .ticker-item { font-size:12px; color:var(--muted); padding:0 26px; position:relative; }
 .ticker-item::after { content:'•'; position:absolute; right:10px; color:#d1d5db; }
@@ -121,20 +121,40 @@ a:hover { text-decoration:underline; }
 .tab[data-topic="rehab"].active     .tab-badge { background:var(--rehab); }
 .tab[data-topic="pemulihan"].active .tab-badge { background:var(--pemulihan); }
 
-/* ── Insights row: word cloud + heatmap ── */
-.insights-row {
+/* ── Top section: word cloud ── */
+.top-insights {
   max-width:1400px; margin:16px auto 0; padding:0 28px;
-  display:grid; grid-template-columns:1fr 1fr; gap:20px;
 }
-@media (max-width:900px) { .insights-row { grid-template-columns:1fr; padding:0 16px; } }
+@media (max-width:900px) { .top-insights { padding:0 16px; } }
 
+/* ── Bottom section: kalender heatmap ── */
+.bottom-row {
+  max-width:1400px; margin:20px auto 28px; padding:0 28px;
+}
+@media (max-width:900px) { .bottom-row { padding:0 16px; } }
+
+.tagcloud-wrap {
+  position:relative; overflow:hidden; border-radius:10px;
+  padding:26px 20px 16px;
+  background:
+    radial-gradient(ellipse 420px 220px at 22% 15%, rgba(37,99,168,0.07), transparent 60%),
+    radial-gradient(ellipse 420px 220px at 78% 30%, rgba(220,38,38,0.06), transparent 60%),
+    radial-gradient(ellipse 420px 220px at 50% 90%, rgba(5,150,105,0.06), transparent 60%);
+}
 .tagcloud {
   display:flex; flex-wrap:wrap; align-items:baseline; justify-content:center;
-  gap:6px 14px; padding:8px 4px; min-height:120px;
+  gap:5px 13px; min-height:280px; position:relative; z-index:1;
 }
-.tag-word { cursor:pointer; font-weight:700; line-height:1; transition:transform .15s ease, opacity .15s ease; white-space:nowrap; }
-.tag-word:hover { transform:scale(1.08); opacity:.85; }
-.tagcloud-hint { text-align:center; font-size:10px; color:var(--muted); margin-top:6px; }
+.tag-word {
+  cursor:pointer; line-height:1.25; white-space:nowrap; display:inline-block;
+  transition:transform .18s ease, opacity .18s ease, text-shadow .18s ease;
+}
+.tag-word:hover {
+  transform:scale(1.14) rotate(0deg) !important;
+  opacity:1 !important; z-index:2; position:relative;
+  text-shadow:0 2px 10px rgba(15,23,42,.15);
+}
+.tagcloud-hint { text-align:center; font-size:10px; color:var(--muted); margin-top:12px; }
 
 .heatmap-scroll { overflow-x:auto; padding-bottom:4px; }
 .heatmap-legend-row { display:flex; align-items:center; gap:6px; font-size:10px; color:var(--muted); margin-top:8px; }
@@ -317,7 +337,7 @@ a:hover { text-decoration:underline; }
 <header class="header">
   <div class="header-icon">🌊</div>
   <div class="header-text">
-    <h1>Monitor Berita — Pascabencana Banjir Sumatera</h1>
+    <h1>Pemantauan Berita Pascabencana Banjir Sumatera</h1>
     <p>Pemantauan tanggap darurat, rehabilitasi-rekonstruksi, dan pemulihan pascabencana banjir Sumatera (November 2025–sekarang) · Diperbarui otomatis tiap 6 jam</p>
     <div class="hero-insights" id="hero-insights"></div>
   </div>
@@ -359,36 +379,22 @@ a:hover { text-decoration:underline; }
   </div>
 </nav>
 
-<!-- Word cloud + Heatmap -->
-<div class="insights-row">
+<!-- Word cloud -->
+<div class="top-insights">
   <div class="card">
     <div class="card-header">
-      <span>Kata Tersering di Judul Berita</span>
+      <span>Kata Paling Sering Muncul di Judul Berita</span>
       <span class="hint">klik untuk memfilter</span>
     </div>
     <div class="card-body">
-      <div class="tagcloud" id="tagcloud"><div style="color:var(--muted);font-size:12px">Memuat...</div></div>
-      <div class="tagcloud-hint">Ukuran &amp; warna kata mengikuti frekuensi dan fase penanggulangan yang paling terkait.</div>
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-header">Kalender Intensitas Pemberitaan</div>
-    <div class="card-body">
-      <div class="heatmap-scroll"><svg id="chart-heatmap"></svg></div>
-      <div class="heatmap-legend-row">
-        sedikit
-        <span class="sq" style="background:#eff6ff"></span>
-        <span class="sq" style="background:#bfdbfe"></span>
-        <span class="sq" style="background:#60a5fa"></span>
-        <span class="sq" style="background:#2563a8"></span>
-        <span class="sq" style="background:#1e3a5f"></span>
-        banyak
+      <div class="tagcloud-wrap">
+        <div class="tagcloud" id="tagcloud"><div style="color:var(--muted);font-size:12px">Memuat...</div></div>
       </div>
+      <div class="tagcloud-hint">Ukuran, warna, dan kemiringan kata mengikuti frekuensi serta fase penanggulangan yang paling terkait.</div>
     </div>
   </div>
 </div>
 
-<!-- Main -->
 <div class="main">
 
   <!-- Article column -->
@@ -552,6 +558,25 @@ a:hover { text-decoration:underline; }
 
   </aside>
 </div><!-- /main -->
+
+<!-- Kalender heatmap — paling bawah -->
+<div class="bottom-row">
+  <div class="card">
+    <div class="card-header">Kalender Intensitas Pemberitaan <span class="hint">sejak November 2025</span></div>
+    <div class="card-body">
+      <div class="heatmap-scroll"><svg id="chart-heatmap"></svg></div>
+      <div class="heatmap-legend-row">
+        sedikit
+        <span class="sq" style="background:#eff6ff"></span>
+        <span class="sq" style="background:#bfdbfe"></span>
+        <span class="sq" style="background:#60a5fa"></span>
+        <span class="sq" style="background:#2563a8"></span>
+        <span class="sq" style="background:#1e3a5f"></span>
+        banyak
+      </div>
+    </div>
+  </div>
+</div>
 
 <script>
 // ── Konstanta bencana ───────────────────────────────────────────────
@@ -751,20 +776,26 @@ function extractWordFreq(articles) {
 function renderWordCloud() {
   const container = document.getElementById("tagcloud");
   const { freq, topicHits } = extractWordFreq(allArticles);
-  const entries = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,40);
+  const entries = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,90);
   if (!entries.length) { container.innerHTML = '<div style="color:var(--muted);font-size:12px">Belum cukup data.</div>'; return; }
 
   const maxCount = entries[0][1];
   const minCount = entries[entries.length-1][1];
-  const minSize = 0.75, maxSize = 2.1;
+  const minSize = 0.68, maxSize = 2.75;
   const shuffled = [...entries].sort(()=>Math.random()-0.5);
 
   container.innerHTML = shuffled.map(([word,count]) => {
-    const t = maxCount===minCount ? 1 : (count-minCount)/(maxCount-minCount);
-    const size = (minSize + t*(maxSize-minSize)).toFixed(2);
+    const tLinear = maxCount===minCount ? 1 : (count-minCount)/(maxCount-minCount);
+    const t = Math.pow(tLinear, 0.72); // kurva agar variasi ukuran lebih terasa
+    const size = minSize + t*(maxSize-minSize);
     const dominantTopic = Object.entries(topicHits[word]||{}).sort((a,b)=>b[1]-a[1])[0];
     const color = dominantTopic ? (TOPIC_COLORS[dominantTopic[0]]||"#64748b") : "#64748b";
-    return `<span class="tag-word" style="font-size:${size}rem;color:${color}" title="${count}x muncul" onclick="filterByWord('${word.replace(/'/g,"\\'")}')">${esc(word)}</span>`;
+    const weight = t > 0.75 ? 800 : t > 0.5 ? 700 : t > 0.25 ? 600 : 500;
+    // Kata besar & dominan dibuat lurus (mudah dibaca), kata kecil sedikit miring untuk kesan organik
+    const rotate = size > 1.7 ? 0 : (Math.random()*14 - 7).toFixed(1);
+    const jitterY = (Math.random()*6 - 3).toFixed(1);
+    const opacity = (0.55 + t*0.45).toFixed(2);
+    return `<span class="tag-word" style="font-size:${size.toFixed(2)}rem;color:${color};font-weight:${weight};opacity:${opacity};transform:rotate(${rotate}deg) translateY(${jitterY}px)" title="${count}x muncul" onclick="filterByWord('${word.replace(/'/g,"\\'")}')">${esc(word)}</span>`;
   }).join("");
 }
 
@@ -783,10 +814,7 @@ function buildHeatmap() {
 
   const startOfDay = d => { const r=new Date(d); r.setHours(0,0,0,0); return r; };
   const today = startOfDay(new Date());
-  let start = startOfDay(new Date(Math.min(...dates, DISASTER_START.getTime())));
-  const maxSpan = 371;
-  const earliestAllowed = new Date(today); earliestAllowed.setDate(earliestAllowed.getDate()-maxSpan);
-  if (start < earliestAllowed) start = earliestAllowed;
+  let start = startOfDay(new Date(DISASTER_START.getTime())); // selalu mulai dari 1 Nov 2025
   start = new Date(start); start.setDate(start.getDate() - start.getDay());
 
   const dayMs = 86400000;
