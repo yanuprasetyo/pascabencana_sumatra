@@ -1,0 +1,39 @@
+name: Scrape Berita Banjir Sumatera
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser python-dateutil
+
+      - name: Jalankan scraper
+        run: python scripts/scrape_news.py
+
+      - name: Commit & push perubahan data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan data."
+          else
+            git commit -m "Update data berita banjir Sumatera - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
