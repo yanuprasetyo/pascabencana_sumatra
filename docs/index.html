@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Monitor Pemberitaan Pascabencana Banjir Sumatera</title>
+<title>Monitor Berita Pascabencana Banjir Sumatera</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
@@ -46,9 +46,11 @@ a:hover { text-decoration:underline; }
 }
 .header-icon {
   width:48px; height:48px; border-radius:12px; flex-shrink:0; position:relative; z-index:1;
-  background:linear-gradient(135deg,#2563a8,#0ea5e9);
-  display:flex; align-items:center; justify-content:center; font-size:23px;
+  background:#ffffff; border:1px solid var(--border);
+  display:flex; align-items:center; justify-content:center;
+  padding:5px; box-shadow:0 1px 3px rgba(15,23,42,.08);
 }
+.header-icon img { width:100%; height:100%; object-fit:contain; display:block; }
 .header-text { flex:1; min-width:220px; position:relative; z-index:1; }
 .header-text h1 {
   font-size:clamp(1.35rem, 2.6vw, 2rem); font-weight:800; letter-spacing:-.4px;
@@ -85,7 +87,7 @@ a:hover { text-decoration:underline; }
   font-size:10px; font-weight:800; letter-spacing:.5px; padding:7px 11px;
 }
 .ticker-track-outer { overflow:hidden; flex:1; }
-.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 70s linear infinite; padding:7px 0; }
+.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 250s linear infinite; padding:7px 0; }
 .ticker-wrap:hover .ticker-track { animation-play-state:paused; }
 .ticker-item { font-size:12px; color:var(--muted); padding:0 26px; position:relative; }
 .ticker-item::after { content:'•'; position:absolute; right:10px; color:#d1d5db; }
@@ -339,9 +341,9 @@ a:hover { text-decoration:underline; }
 
 <!-- Header -->
 <header class="header">
-  <div class="header-icon">🌊</div>
+  <div class="header-icon"><img src="assets/brin-logo.png" alt="Logo BRIN"></div>
   <div class="header-text">
-    <h1>Monitor Pemberitaan Pascabencana Banjir Sumatera</h1>
+    <h1>Monitor Berita Pascabencana Banjir Sumatera</h1>
     <p>Pemantauan tanggap darurat, rehabilitasi-rekonstruksi, dan pemulihan pascabencana banjir Sumatera (November 2025–sekarang) · Diperbarui otomatis tiap 6 jam</p>
     <div class="hero-insights" id="hero-insights"></div>
   </div>
@@ -387,7 +389,7 @@ a:hover { text-decoration:underline; }
 <div class="top-insights">
   <div class="card">
     <div class="card-header">
-      <span>Kata Kunci Paling Sering Muncul di Judul Berita</span>
+      <span>Kata Tersering di Judul Berita</span>
       <span class="hint">klik untuk memfilter</span>
     </div>
     <div class="card-body">
