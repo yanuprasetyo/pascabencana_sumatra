@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Pemantauan Berita Pascabencana Banjir Sumatera</title>
+<title>Monitor Berita — Pascabencana Banjir Sumatera</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
@@ -85,7 +85,7 @@ a:hover { text-decoration:underline; }
   font-size:10px; font-weight:800; letter-spacing:.5px; padding:7px 11px;
 }
 .ticker-track-outer { overflow:hidden; flex:1; }
-.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 250s linear infinite; padding:7px 0; }
+.ticker-track { display:inline-flex; white-space:nowrap; animation:ticker-scroll 70s linear infinite; padding:7px 0; }
 .ticker-wrap:hover .ticker-track { animation-play-state:paused; }
 .ticker-item { font-size:12px; color:var(--muted); padding:0 26px; position:relative; }
 .ticker-item::after { content:'•'; position:absolute; right:10px; color:#d1d5db; }
@@ -127,11 +127,15 @@ a:hover { text-decoration:underline; }
 }
 @media (max-width:900px) { .top-insights { padding:0 16px; } }
 
-/* ── Bottom section: kalender heatmap ── */
+/* ── Bottom section: kalender heatmap + tren ── */
 .bottom-row {
   max-width:1400px; margin:20px auto 28px; padding:0 28px;
+  display:grid; grid-template-columns:1fr 1fr; gap:20px;
 }
-@media (max-width:900px) { .bottom-row { padding:0 16px; } }
+@media (max-width:900px) { .bottom-row { grid-template-columns:1fr; padding:0 16px; } }
+
+.trend-range-chips { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
+.trend-wrap-lg { height:230px; position:relative; }
 
 .tagcloud-wrap {
   position:relative; overflow:hidden; border-radius:10px;
@@ -337,7 +341,7 @@ a:hover { text-decoration:underline; }
 <header class="header">
   <div class="header-icon">🌊</div>
   <div class="header-text">
-    <h1>Pemantauan Berita Pascabencana Banjir Sumatera</h1>
+    <h1>Monitor Berita — Pascabencana Banjir Sumatera</h1>
     <p>Pemantauan tanggap darurat, rehabilitasi-rekonstruksi, dan pemulihan pascabencana banjir Sumatera (November 2025–sekarang) · Diperbarui otomatis tiap 6 jam</p>
     <div class="hero-insights" id="hero-insights"></div>
   </div>
@@ -383,7 +387,7 @@ a:hover { text-decoration:underline; }
 <div class="top-insights">
   <div class="card">
     <div class="card-header">
-      <span>Kata Paling Sering Muncul di Judul Berita</span>
+      <span>Kata Tersering di Judul Berita</span>
       <span class="hint">klik untuk memfilter</span>
     </div>
     <div class="card-body">
@@ -533,13 +537,6 @@ a:hover { text-decoration:underline; }
     </div>
 
     <div class="card">
-      <div class="card-header">Tren 30 Hari Terakhir</div>
-      <div class="card-body">
-        <div class="trend-wrap"><canvas id="chart-trend"></canvas></div>
-      </div>
-    </div>
-
-    <div class="card">
       <div class="card-header">Top 10 Sumber Media</div>
       <div class="card-body">
         <div class="source-list" id="source-list">
@@ -559,7 +556,7 @@ a:hover { text-decoration:underline; }
   </aside>
 </div><!-- /main -->
 
-<!-- Kalender heatmap — paling bawah -->
+<!-- Kalender heatmap + Tren pemberitaan — paling bawah -->
 <div class="bottom-row">
   <div class="card">
     <div class="card-header">Kalender Intensitas Pemberitaan <span class="hint">sejak November 2025</span></div>
@@ -574,6 +571,19 @@ a:hover { text-decoration:underline; }
         <span class="sq" style="background:#1e3a5f"></span>
         banyak
       </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">Tren Jumlah Berita</div>
+    <div class="card-body">
+      <div class="trend-range-chips" id="trend-range-chips">
+        <div class="chip" data-range="7">7 hari</div>
+        <div class="chip" data-range="30">30 hari</div>
+        <div class="chip" data-range="90">90 hari</div>
+        <div class="chip active" data-range="all">Sejak Nov 2025</div>
+      </div>
+      <div class="trend-wrap-lg"><canvas id="chart-trend"></canvas></div>
     </div>
   </div>
 </div>
@@ -596,6 +606,7 @@ let searchQuery  = "";
 let sortOrder    = "newest";
 let chartDonut   = null;
 let chartTrend   = null;
+let trendRange   = "all"; // "7" | "30" | "90" | "all"
 
 const TOPIC_LABELS = { banjir:"Banjir Sumatera (Umum)", darurat:"Tanggap Darurat", rehab:"Rehabilitasi & Rekonstruksi", pemulihan:"Pemulihan & Bantuan Sosial" };
 const TOPIC_COLORS = { banjir:"#2563a8", darurat:"#dc2626", rehab:"#b45309", pemulihan:"#059669" };
@@ -1041,28 +1052,76 @@ function renderDonut() {
   });
 }
 
-function renderTrend() {
+function getTrendBuckets(range) {
   const now = new Date();
+  const today = new Date(now); today.setHours(0,0,0,0);
+
+  let start;
+  if (range === "7")       { start = new Date(today); start.setDate(start.getDate()-6); }
+  else if (range === "30") { start = new Date(today); start.setDate(start.getDate()-29); }
+  else if (range === "90") { start = new Date(today); start.setDate(start.getDate()-89); }
+  else                     { start = new Date(DISASTER_START); start.setHours(0,0,0,0); }
+  if (start < DISASTER_START) start = new Date(DISASTER_START);
+
+  const dayMs = 86400000;
+  const spanDays = Math.max(1, Math.round((today-start)/dayMs)+1);
+  const useWeekly = spanDays > 60; // rentang panjang -> dikelompokkan per minggu agar tetap terbaca
+
   const buckets = {};
-  for (let i=29; i>=0; i--) {
-    const d = new Date(now); d.setDate(d.getDate()-i);
-    buckets[d.toISOString().slice(0,10)] = 0;
+  const orderKeys = [];
+
+  if (!useWeekly) {
+    for (let i=0; i<spanDays; i++) {
+      const d = new Date(start); d.setDate(d.getDate()+i);
+      const key = d.toISOString().slice(0,10);
+      buckets[key] = 0; orderKeys.push(key);
+    }
+    allArticles.forEach(a => {
+      const k = (a.pub_date||"").slice(0,10);
+      if (k in buckets) buckets[k]++;
+    });
+    const labels = orderKeys.map(k => {
+      const d = new Date(k+"T12:00:00");
+      return d.toLocaleDateString("id-ID",{day:"2-digit",month:"short"});
+    });
+    return { labels, data: orderKeys.map(k=>buckets[k]) };
+  } else {
+    let cursor = new Date(start);
+    while (cursor <= today) {
+      const key = cursor.toISOString().slice(0,10);
+      buckets[key] = 0; orderKeys.push(key);
+      cursor = new Date(cursor); cursor.setDate(cursor.getDate()+7);
+    }
+    allArticles.forEach(a => {
+      const d = new Date(a.pub_date); if (isNaN(d)) return;
+      if (d < start || d > today) return;
+      const diffDays = Math.floor((d-start)/dayMs);
+      const weekIndex = Math.floor(diffDays/7);
+      const weekStart = new Date(start); weekStart.setDate(weekStart.getDate()+weekIndex*7);
+      const key = weekStart.toISOString().slice(0,10);
+      if (key in buckets) buckets[key]++;
+    });
+    const labels = orderKeys.map(k => {
+      const d = new Date(k+"T12:00:00");
+      return "Mgg " + d.toLocaleDateString("id-ID",{day:"2-digit",month:"short"});
+    });
+    return { labels, data: orderKeys.map(k=>buckets[k]) };
   }
-  for (const a of allArticles) {
-    const k = a.pub_date.slice(0,10);
-    if (k in buckets) buckets[k]++;
-  }
+}
+
+function renderTrend() {
+  const { labels, data } = getTrendBuckets(trendRange);
   if (chartTrend) chartTrend.destroy();
   chartTrend = new Chart(document.getElementById("chart-trend").getContext("2d"), {
     type: "bar",
     data: {
-      labels: Object.keys(buckets).map(d=>d.slice(5)),
-      datasets:[{ data:Object.values(buckets), backgroundColor:"#2563a8", borderRadius:3 }]
+      labels,
+      datasets:[{ data, backgroundColor:"#2563a8", borderRadius:3 }]
     },
     options: {
       plugins:{ legend:{display:false} },
       scales:{
-        x:{ ticks:{color:"#9ca3af",maxTicksLimit:6,font:{size:10}}, grid:{display:false} },
+        x:{ ticks:{color:"#9ca3af",maxTicksLimit:14,font:{size:10}}, grid:{display:false} },
         y:{ ticks:{color:"#9ca3af",font:{size:10}}, grid:{color:"#f1f5f9"}, beginAtZero:true },
       }
     }
@@ -1085,6 +1144,16 @@ function renderSources() {
 }
 
 // ── Events ────────────────────────────────────────────────────────────
+
+// Chip periode grafik tren
+document.getElementById("trend-range-chips").addEventListener("click", e => {
+  const chip = e.target.closest("[data-range]");
+  if (!chip) return;
+  document.querySelectorAll("#trend-range-chips .chip").forEach(c=>c.classList.remove("active"));
+  chip.classList.add("active");
+  trendRange = chip.dataset.range;
+  renderTrend();
+});
 
 // Tabs topik
 document.getElementById("topic-nav").addEventListener("click", e => {
