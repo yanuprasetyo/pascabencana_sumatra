@@ -1,5 +1,629 @@
 [
   {
+    "topic": "pemulihan",
+    "title": "UMKM Terdampak Bencana Sumatera Mulai Terima Banpres Rp 3 Juta - detikNews",
+    "source": "detikNews",
+    "pub_date": "2026-11-17T15:15:37Z",
+    "desc": "UMKM Terdampak Bencana Sumatera Mulai Terima Banpres Rp 3 Juta detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2ZJZDdJZ3FINkw3YTdlOFZ5MG0yc2hfV21qc1JhdzRmWXB4ZkU3VDQ3UC1aRDhGTlpzTml3dDJNcmxEUFdNZVcydTRmOUdhWHVZeVN6MHFnbXRDTjM4aVRoQUV0V2NSdGJ5VFNEa1BMd1lBbEgyUjFyNUxvaWludmphOWc0cTFBb296SUkwWEhkTnRocUx2bHNpUnJkYTJ4Vk94bdIBqgFBVV95cUxPWXBrZzVtRXZSOEZBMTlleFhSYkcyZ241UVdWRFZ6OWw5UGF1RFF4Rm1IQ0k2dDBVcFFqd1g4VlA1YkIyU2Y4Q29Oa252bElTZlJXVGF5M2RJdFNIdUlsSXI5MlpVQmtWMGxYUWRHb2dybHg5d0lVdGpxMENTdmREMmFYWllFZUlrMVJrRFVCVnVURWhsM0JpQnBDQjhOa3BVTk05cFMtOEhGZw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Terjang Lima Wilayah Aceh, 21.109 Warga Terdampak dan 1.553 Mengungsi - AFU.id",
+    "source": "AFU.id",
+    "pub_date": "2026-11-17T15:05:00Z",
+    "desc": "Banjir Terjang Lima Wilayah Aceh, 21.109 Warga Terdampak dan 1.553 Mengungsi AFU.id",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkVnS3BpMkFLWDZNTHV4Tm9mMW5BVDVPekI4cC1tN0duQm51a3BSZnB0c0loUGpkQ09wMnJkOWsxOGY3Q0FpSDlmcEw5akIybVlmRk5SakQzMGVTWFNCUjdralBtb25hWDVVWWdyM1dwVGM1bE95R0s5bVlxTlZ2T0lVTVYwWWgxY1dPaEpNMWE1QTMyNlI2QmRTaUYzUGM?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Antisipasi Banjir Bandang dari Lembang, Farhan Minta BPBD Bangun Jejaring Komunitas untuk Peringatan Dini - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T14:56:00Z",
+    "desc": "Antisipasi Banjir Bandang dari Lembang, Farhan Minta BPBD Bangun Jejaring Komunitas untuk Peringatan Dini Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlJoOUR5R1BLaFRSelhyX1pWQzdjLTFHN3FPUEFwbUJ0eEI3WHcwS2JtMW85OUd5ZHNBZEFiQ2VaQ09YSTA0T1F3aDJrdHV4YTFGdFhqYkhHZ2k0Mml0YXYzUF9Bb0ZXSGppazA2LUg5cV8wZGJMN3RBLUJMVHZGaHFDX08yVDcxS0hXTEVFbkFoQTg4cEVMVFVEck5zbjdVT3p6eVJ4Y05uVERwYjlvc3VERkVxTHlHcEh0RXhfNjcwVWM?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Mengganas, Jembatan Amblas! Akses Dua Desa di Aceh Singkil Lumpuh Total - satupena.co.id -",
+    "source": "satupena.co.id -",
+    "pub_date": "2026-11-17T14:47:43Z",
+    "desc": "Banjir Mengganas, Jembatan Amblas! Akses Dua Desa di Aceh Singkil Lumpuh Total satupena.co.id -",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnFWcGtDZG9RUGNyZUtxZmhudy1lNy1oRXVZUlVwYUNnN2tZRmxCWlYxTGh3TWp6WE9UQ2gxUTRIRkFmellQWkl5MWZCRVZGd1BWNThrT09oU3FOaW41ZXFvTVZOdTh5cXU0U3lPVlRadWt0SlcwM2JYQ1VRbzZNRWtGNE9ReXdrVXI5eGNJcFVWbVBwMUVSeFN2b09CcFlfYVE?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Menko PMK dan Wagub Aceh Tinjau Penanganan Banjir di Subulussalam - Habadaily",
+    "source": "Habadaily",
+    "pub_date": "2026-11-17T14:33:30Z",
+    "desc": "Menko PMK dan Wagub Aceh Tinjau Penanganan Banjir di Subulussalam Habadaily",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjUwZm1iUTlVQUNuRVRidXNiWEc1TXZQSU9tQW1wZ3J2RXBfbHZVUUl5aElOSEdjV3pTY0NxelRnT2RIbXk2RWViaGtwVXphYmZGdml6ZTRQejB6NVFqNjJmaFhvYUl6UjRMQ25lQzVBbmFYMUNEZEZSQk1ZSmItNmNKZ05ocjduZkdZemJNOUlCNllSaVVmcjZsbHU1V1RP?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Video: Banjir-Longsor Terjang Jabar hingga Aceh, Ini Respons DPR - 20detik",
+    "source": "20detik",
+    "pub_date": "2026-11-17T14:26:51Z",
+    "desc": "Video: Banjir-Longsor Terjang Jabar hingga Aceh, Ini Respons DPR 20detik",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObFlocmZPNmZlNWRpSEJnTlppYlZTVjFMLUgzS0NOY2RTaXZabVFqYnNjSDktRUlGTDVVcjZ5bW83SEROb1FpNXJHM0VHdk5XNHhRa1ZlN2FfTlpidWRYUUw1dWVWUnZhbHZpRHVzMjVsaTg5Z0hqUDRJa0YyVVBERGQxc0tZTUhWS1JBMWtmUVVxcXhLUUFqMDNqejBiSnhIYWY2c1VpbWNmWjgxNWJicFlPTUk?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Satgas PRR Pastikan Bantuan Banjir Tersalurkan di Subulussalam - bsinews.id",
+    "source": "bsinews.id",
+    "pub_date": "2026-11-17T14:21:45Z",
+    "desc": "Satgas PRR Pastikan Bantuan Banjir Tersalurkan di Subulussalam bsinews.id",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUi1INmN0SmcwSE8yTEtHNTFuLUlyaksxV1ZxUWN5SjZ3WGdnVVFCRXIwNEFSZVRZTk1DVVBmSnBHbzk0ajk3VjBGUDhsZUZRdFVodFB5R21Fa1UtZnJSODNUU2VpaHZW?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "4 Hari Terendam Banjir, Warga Aceh Tamiang Minta Bantuan Pangan dan Pembukaan Akses Jalan - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T14:20:00Z",
+    "desc": "4 Hari Terendam Banjir, Warga Aceh Tamiang Minta Bantuan Pangan dan Pembukaan Akses Jalan Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzAzRVZkcVVibUFmWFVMZ1hJV2tBNG9DMDFDUk5mN292RUlvVElHbFFGV0VjUmJ0RnBORWt2YkF1VE9zWVc1MHN0Qi0xbmY1VFlBeEdIa2g1SFFwMWF1THNFMkxRdUdZOUthUjU4NWw0djdabm0zVFh5ZDZxdW5sdEJuNVZxZTFJNlNLZnRRZUtFU3hoOGJZTWlpeXJiaFhMSjVJSEdqNW9Uc3pkMGZtX1NFZzE1LXg0QUE5Tw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Satgas PRR Dampingi Menko PMK Tinjau Banjir Susulan di Subulussalam Aceh - detikNews",
+    "source": "detikNews",
+    "pub_date": "2026-11-17T14:10:17Z",
+    "desc": "Satgas PRR Dampingi Menko PMK Tinjau Banjir Susulan di Subulussalam Aceh detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0FKMTBLLVlKMU9tMEF2eUVwZ2FCWElkQklSbllaTkphbVhJVW9lM0MwSXlrVWRZYlpvTXNlU3hCSDhyZmJLM1R4Ym5wdENRWkFaeHowajU4cnNyMDNrLUtxaHdaUUs5azFseVRjZXFXRG9tY3F0V1QxN0FyZ1FKamlEQVF3UktPR0ZhekVJZTRTOUZicXFVWG40UzRoRThqaGdLTEdaRlVzZ0F3Y2hpQXZR0gG3AUFVX3lxTFBfXzFhWWdFQ29lSHJ1VnZyc05fTk43RHBKcERCUl9zbWRRMFhPSEYyb0cyN1B5NGxmOTJiUjB2REpWa3NmODU0SGowVXVrdm81NE5uOW9sUzBWbTN5LUNzQzRyeFJFOWlkcGxpZ3hNYjlQa2ZjaDBlamwzMjRaVXpPZG9nSmpGNkhNdTU1TDEtNkttQTRSbjZaSW5ORHIzNG5ORU5rakl4bWthNFpsMUpHNDFDRjg3cw?oc=5"
+  },
+  {
+    "topic": "pemulihan",
+    "title": "UMKM terdampak bencana Sumatera mulai terima Banpres rehabilitasi Rp3 Juta - Alinea.ID",
+    "source": "Alinea.ID",
+    "pub_date": "2026-11-17T14:02:00Z",
+    "desc": "UMKM terdampak bencana Sumatera mulai terima Banpres rehabilitasi Rp3 Juta Alinea.ID",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlVpbVVBS05zSC1KVUJkWG5obEVOMkxVbkN4ejA5cjlfam9lZy1lY0tJUWdsUHl3aDIxUFBlbjRTLUNqMFpsbWthZHhHUGNmekMtSXVGa2Izc0t0TkZTRmpNeDJ3amdaSjlOWGczOFpNOWN1NU5rcVJCZVZNTEM4bEphVHk2NWF1T050c2c3ZGFkbElDU3NCTmtR?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Penyalahgunaan BBM Subsidi di Aceh, Polisi Tetapkan 45 Orang sebagai Tersangka - RMOLAceh",
+    "source": "RMOLAceh",
+    "pub_date": "2026-11-17T14:00:23Z",
+    "desc": "Penyalahgunaan BBM Subsidi di Aceh, Polisi Tetapkan 45 Orang sebagai Tersangka RMOLAceh",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQV9FMUtlbDVXLTF3blJ2dGhteFJaQ0ZiN2VoQlpFcE8wX29sc056cWFSdTVmLXhWSlY5V2wweWFSUU9ENVNHRDh3enI4N09ZNFVUaUZQdFhCMDhVaGVZMzhvbUtQSFRhaW1FOUhtVFlndUhHMmI3eDFPX213c0ZKWGc4cU9zSkpNanU3RDRLSjB1Q3VFMl9yV0EyZUtpcEczbEFR?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Sempat Padam Total akibat Banjir, Listrik di Pining Kembali Normal - RMOLAceh",
+    "source": "RMOLAceh",
+    "pub_date": "2026-11-17T13:41:08Z",
+    "desc": "Sempat Padam Total akibat Banjir, Listrik di Pining Kembali Normal RMOLAceh",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG9UYWhfZW9pT2hXZGg1SDl0SlQ1d0ZwS0kwdi1DOHEtTVkySDJDOE1UMHJ5V3dlZHBRV2hVTjR5MUZycjEzczZLbjJLelRDSzZWMjlMUldSVFlCbEFWU0Nwa2ppMl9kZjBReWhhN3VIcGxET0FiOWxreGFjTTcxdWZoYmE3SWs4YVpLYUtzOEFDdTA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Subulussalam Jadi Perhatian Pusat, Wagub Aceh Desak Solusi Jangka Panjang - ACEH BISNIS",
+    "source": "ACEH BISNIS",
+    "pub_date": "2026-11-17T13:27:54Z",
+    "desc": "Banjir Subulussalam Jadi Perhatian Pusat, Wagub Aceh Desak Solusi Jangka Panjang ACEH BISNIS",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdllvRVBReWNkcS13bmJZV1VWY3owNjYyWHlXQmZPQk1FZjM3dmJTekxIcmhyWVNFNEt6bkRLUG9yTi1uRnZvRXhpSlFISTF0MlFhUTk1c1NFTThCb0RLWXVWZDZ0bHloNjFVQ2o2ZU5oMUlrUzZJNG85ai1ZN2NXaHZpSjczaXdqOVBxWXhzTzJzalR5OFltRXpPS0UtYnJmOXhwd00yOUN3NHBUcURiVEM1SXNFNHMwT0RZU1NXMA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Sigap Pantau Banjir, Brimob Aceh himbau Warga Lhok Raya Segera Mengungsi - jurnalpolisi.co.id",
+    "source": "jurnalpolisi.co.id",
+    "pub_date": "2026-11-17T13:05:47Z",
+    "desc": "Sigap Pantau Banjir, Brimob Aceh himbau Warga Lhok Raya Segera Mengungsi jurnalpolisi.co.id",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclpRQjdfTW1LU0JzbjFPSzRUNUhvWWZsa3VqeWs3c3NNUWcyOTZhT1lHcnVNS09pb1VaWU9tSnpIOVRMNnhEYkZ2N0NUel9wMzhHMkR5Q21UdGRHUHVhamlLTEpfeGVjU3BINVcxLXl3ZkhEUGVieEUxT3hoUEliNkxzTlFhX3ZRNmxmMHQ2U29DVVVidjVtX2dOUWN6OWJu?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Wagub Aceh Bersama Menko PMK Tinjau Penanganan Banjir di Subulussalam - thejurnal.id",
+    "source": "thejurnal.id",
+    "pub_date": "2026-11-17T12:54:49Z",
+    "desc": "Wagub Aceh Bersama Menko PMK Tinjau Penanganan Banjir di Subulussalam thejurnal.id",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblYtWlpPX2JCWGtFNFcxUTJJQlhrMWVGRmtOY2pCVkwxTDRPR0hXdC1iNnV3anA1ZDE3U3FJcnpPNGlRRm1tbHMtRHNXR1RXaXNaT0VzbjNyUm80LVpOdDVrczVEUXE4dzJmR1FlRVU0RFNWbFJ6RnhGZGxFT0VFMXU0T0lKMmhKZ2VrUG5lUWg2R3lmM0w4R1NvREFuVExlT0xZZV91TVdQdw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Aceh Singkil Berdampak ke 13.720 jiwa, Jalan Putus dan Jembatan Amblas - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T12:33:00Z",
+    "desc": "Banjir Aceh Singkil Berdampak ke 13.720 jiwa, Jalan Putus dan Jembatan Amblas Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLXo2bXJyZkV1UTZKcmIxVkJNcmdJb2RHaW93RGlPWjNvc1NvejV4czFWTmFMS19ZcVkySWljZlBRUlJIZzhCb3VwbkhJMlRNYlhrcWdtbnY3eHRtb0owdFZvZW95alFIVTY2eDBDbm03Z05JbmhZdXlNNWFPWHBzTXd5aUV3Ri03eTN6YUNtWHN2bGRjbHdSb0dBSDdwT191ZU84M01vM2FFTDR5bkREeklxOHVFLVZPanc5dVU2Wm1EUloyWHBxLQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Aceh Singkil Berdampak pada 13.720 Jiwa, Sejumlah Jembatan dan Jalan Putus - NU Online",
+    "source": "NU Online",
+    "pub_date": "2026-11-17T12:30:09Z",
+    "desc": "Banjir Aceh Singkil Berdampak pada 13.720 Jiwa, Sejumlah Jembatan dan Jalan Putus NU Online",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1c1QWhRSTBFa2RhdUtBcG5QSzdkd1ozZFk2bzBTQUZpRDE1MWVBSE1vRGoxWGZfTHYxUFVTeFprZ3NQamtZQlF2SmxhV1hVV1VJUnJHQjkyajhpQUIxN2ZPeFFmUWxTV3ZLNm5xc1BTN19PRW9vai1CUVhYcGtNMjBfOVBnaFFYNHJBeXhkQTFpdm1LWTV5dFdKaW1BSkZIRFhHaXlTUmw4cDZVaXpjSjd2ckTSAboBQVVfeXFMTW0xdU43bFdZcUIwWEI1REQ5VUM5cW5Fck1xZzhMVGZQUk5GVkw1aWJ0VGcwS2RwSjljYlBJdkcxOU1lclhZRjJpQTBkTkdLQUtrZ1VMV3V1eVdKRF9kbTJNWk9Qai1fWlhEa2xJZVRmX1dsQld2eDhxMmI0N1EzS0dlU1hjdjQ2Wnh6bmR5LS15TkpSanFOR2RqQ3Axam1kM0paQ3FMeXBNZVd3SENBbEozUTBaRGhjSlFn?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Sebanyak 11.000 Keluarga Terdampak Banjir di Aceh, Kalbar, dan Bengkulu - Lentera Today",
+    "source": "Lentera Today",
+    "pub_date": "2026-11-17T12:13:22Z",
+    "desc": "Sebanyak 11.000 Keluarga Terdampak Banjir di Aceh, Kalbar, dan Bengkulu Lentera Today",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekZkcFZONi1ZcURqY0J1UXdGeXhQdzFvRjhORE5MdHBjN2lZY1FiNFlidlhySnBBcEdnVE5RYjZmTXpEeUVadkpzbjRzZG5qRFhySFBEV3Y2UDF2YUROaUR6Q2VMV1FsWWVJalE1ZmtaS1NjdUVXNUZHMktnWm54SDRTbUtKdm53T0liaEJ4OGhzUzluZV9BZXdBZnROcHRZVGRXTGVNQzUxYWVOb1Zn?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BPBA Catat 21.109 Warga Terdampak Banjir di Lima Wilayah Aceh, 1.553 Orang Mengungsi - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T11:30:00Z",
+    "desc": "BPBA Catat 21.109 Warga Terdampak Banjir di Lima Wilayah Aceh, 1.553 Orang Mengungsi Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjdJcndsVkRMQURGdDhLcm1vREtvRHcwWE16Y2RFRUN1dUk0U082TnI5cmJyRWpPZmlyVWJUcFZMSTVONkF6blhCODFVTjYxNTBBazE1aHFYMUwtOWVVaXpfMnVVb19fRk9QYVdrZlJlanpzOEtYM25wRkRZSVV1LUloa2dzUmFYclF6NGMwTk42ck5ieEFfM2p4SkpCcm1CM2lENzJNcnM0a21aMThDakMzTUdWWG53LUNYeXBhMkZkXy0tSkE?oc=5"
+  },
+  {
+    "topic": "rehab",
+    "title": "Jembatan Usaha Tani Bukik Siriah Agam Dibangun Kembali, Warga Setempat Diberdayakan - Langgam.id",
+    "source": "Langgam.id",
+    "pub_date": "2026-11-17T11:29:00Z",
+    "desc": "Jembatan Usaha Tani Bukik Siriah Agam Dibangun Kembali, Warga Setempat Diberdayakan Langgam.id",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVdsNUtnX3lXZ3JwYlRBbm83V29uemdVcS15eThuMU5TNVpmOFdtZFp4dnpkandib3l5akxzX2VXeHh2Y211M19EcklUVi1DbjFDNHlLbWc1d2NyUXdId1ZfSFN5SlZ3VE9yNVJXWlUxaFpLdVplTG9sU2JiQ1NfSWc2ZXJwZzNIQzMzZ0lvdE16dnlJc18yano4NUJLWS1CQU9WTw?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "Banjir Susulan di Aceh, Pemda Diminta Tidak Ragu Tetapkan Tanggap Darurat - kumparan.com - kumparan",
+    "source": "kumparan",
+    "pub_date": "2026-11-17T11:25:00Z",
+    "desc": "Banjir Susulan di Aceh, Pemda Diminta Tidak Ragu Tetapkan Tanggap Darurat - kumparan.com kumparan",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXFYYUhSZEVPOG1Pd1dSUk9hRmZuXzJzYnlpazUtc2hETFp3MHpFa093VHAzdXVNdjV4andPNExMRXMzY2I1dmxIQ2tGR0puTi1VWmxtMndPZ25pQXQ3UWhSUExxblg4U0c3QXVyenFPcFVkUlhfdWtlUWIzQXRrdTdmc3BtcllhMFZUWDBhUUFrSzhycFJYTTRVbFpUaEtiRlpyamZadEFiVDNTYS01ZFVKeENXaFpOSUHSAcIBQVVfeXFMTU8zMnd2RFZPYjFhMzktSXVnczJXMXdDZ3M2UXlPWHVCMW4ta1U5T0kwVFYyNVQtdkN5eVN4d01qNG15Yy1jdEFGYXM2R3JqMGtRZl92Q0RUdGN5OS1IU2RYUURMYkxmZEtuZXp2VXRhZndSR0puZURYVVVlNFh5dHQyeFg0WlhrdFhuRDloQVV3cEhGUnBxdG9CblEwbnpyYXFPYUpDMzhnQzFOVlRvMGcxTXFlRFJFS3hZQ1RsOEF6X0E?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BNPB: 10.000 KK Terdampak Banjir di Aceh, Waspadai Hujan Lebat hingga 19 November - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T11:25:00Z",
+    "desc": "BNPB: 10.000 KK Terdampak Banjir di Aceh, Waspadai Hujan Lebat hingga 19 November Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZqSWpOd0R0TUdqOWJfdFl5MTBwdEVncjZVc1FwSVp6bFRoVnNfekFILU0tM0xQZ2dFRDV5Z2hVRXB5V2NaZ1A3WXBmNFFDVlRib2JVeTdXMVlkX0JWSmEzSGpJYU5iN29zcmpSMU9xMldmNm84ZU9jVzhyUHQ1V1NPdGVILUd0TzRnRkprZ3ItV3BUTEcwVUZqUDZfTElHOERzNHRNTWhaVjAxb204NEd6UlVOUkRxVm96dV9Jdw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "[KLARIFIKASI] Ini Bukan Video Korban Hanyut Banjir Sumatera 2026 - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T10:55:00Z",
+    "desc": "[KLARIFIKASI] Ini Bukan Video Korban Hanyut Banjir Sumatera 2026 Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2lROUVHWXpLYzZHUDFCVFFseFF0Q2lxVmRHT3Q4MjNJRVhSeEdWbk1FQ2hwNk1NdmpwTHp5NkhyMzE5ZTh0OWNIdVZoYlRjQm04ZUpFNS1WTnhvdjBkSnJoUzI1b3l3eVU4alBGNUFUVWlnbGhRUEtXeUpHUzU0ZnZCSHJrM0djYnQwUXhFMXlvU0JKRWZ4VUpfRGRpU1ZKMl8yTmR1OHRLQlc3end0VEpZd05HRnJBT0VtaGNn?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Ketua DPR RI Minta Penanggulangan Bencana Banjir Dan Longsor Di Aceh Dioptimalkan - Waspada.id",
+    "source": "Waspada.id",
+    "pub_date": "2026-11-17T10:53:44Z",
+    "desc": "Ketua DPR RI Minta Penanggulangan Bencana Banjir Dan Longsor Di Aceh Dioptimalkan Waspada.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajN3Z25DZkZ4NkxfOGRpRDVzc2t6ampUdy00b01YTkJ0bjc3SjJmRG5rMXNzV3dJMlJMdGJBV2U3TWpvWnNpLXdvbTlZcDlhMjYzY1NBRmRPWEJxRmNnZ0ktNV9UbGVhVWUwWTRXUzVmcFI3NDQxZXBkaDBRUDR2Tk1lOFpzU0xjSlotd00xTFBqeTFXbkQ5YUtpRDlNWGtlWUdaaGRWT09KcmVCVFRtWlpn?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Penampakan Banjir Setinggi 4 Meter di Ulu Rawas Muratara Sumatera Selatan, 40 Rumah Warga Terendam - Tribun Video",
+    "source": "Tribun Video",
+    "pub_date": "2026-11-17T10:53:00Z",
+    "desc": "Penampakan Banjir Setinggi 4 Meter di Ulu Rawas Muratara Sumatera Selatan, 40 Rumah Warga Terendam Tribun Video",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0lEMFYtRFl4R3Y2ZG15ajJFVmRpU3hwYmJFeGd3OUlKN09idmJISnZxVnltUzFqQ1lDY3R2OWJES005THdOTGpTcDhKUUxBYnV6TjFOTzUzTURJOWs1MDZ1RThES1c4cmNyMHk4RE1nd2Qtb1o2Mlp4cGFXX1dxMHFhM1U4MnBiclFqV3B5NnhudXVzZV9SYklwRE5vS2hVdDVlMXhjOVlad3NrYmd4SWRzQnZJWmlMWGVDOUJkZzZtanp4QkEySTRoQ3J2MkE4TmJodw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "LIVE: 40 Rumah Warga Terendam Banjir Setinggi 4 Meter di Ulu Rawas Muratara Sumatera Selatan - Tribun Video",
+    "source": "Tribun Video",
+    "pub_date": "2026-11-17T10:48:00Z",
+    "desc": "LIVE: 40 Rumah Warga Terendam Banjir Setinggi 4 Meter di Ulu Rawas Muratara Sumatera Selatan Tribun Video",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnp0RC1Ea0xFeE5kR1ZSZXpjN19hNDRrLVd6eE0wTktNT0EyWUprdHpqM2toWVd6Y3ZqUXdEUEhoNDNfTW04SEFsRDBVVHpJVlZ3UUp5X09uZ0hPQ2pUWjdWVWZ3TmdFNlR3d2ZQNDV1LTlmMUZxdlRuTVp6Q3EwWlJVLUEtMGtMbXNjbnRPZTd1SWduS2hJTXFGZWVyQ1ZFYTBha0ZTQXdMbnRKa3UwLTJ2SDY4SnRaMjlBUDAtOTZYTmc?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Pemerintah Diminta Gerak Cepat Evakuasi dan Bantuan Jangkau Korban Banjir Aceh - lampuhijau.co.id",
+    "source": "lampuhijau.co.id",
+    "pub_date": "2026-11-17T10:42:41Z",
+    "desc": "Pemerintah Diminta Gerak Cepat Evakuasi dan Bantuan Jangkau Korban Banjir Aceh lampuhijau.co.id",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV1YzREREbTdHYW15Nlk2VXlzOGlVUUNEcWl1VVg2VU1KdzZQRko3a3lpSURxbEFvdGk5cXhsZU80bDZTck9aTGV3dVkyQXNFUHBobHhZOEdoQ2gyek53UEw1NUpiNlQ1T1g1OWY4eWJzOWpVLXp5SGZXZkN6Z28yd2NTVHlwRFBSczdHZi01OGIxOTR1VUVkSXd6MUE5czRWX2V6TklqRWJWODJ2OGx3VHBoV0RLdC1mLVREbktpeHQ5YzBPOTZHRXBNZm9Ldw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Maman Imanulhaq Desak BNPB dan Kemensos Bergerak Cepat Tangani Banjir Aceh - TINTAHIJAU.com",
+    "source": "TINTAHIJAU.com",
+    "pub_date": "2026-11-17T10:38:38Z",
+    "desc": "Maman Imanulhaq Desak BNPB dan Kemensos Bergerak Cepat Tangani Banjir Aceh TINTAHIJAU.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0k1cnNXMWR4YWNiTUlNLUcyZGsxUXk5UVJrZzA0OWhFU1U1MWhhMW9kbzlBTnQzSktrbzRXalp5U0xmckV1RWhFZWQyZTh6VFdjQUtRQlB4TzNVSjNEeFlMd1Q3SGozMVR6VGtLY2ZPVXU0cUV3Q3o4RmpVWVllNTNUb056X0tOV01NTmtsdWNGV2prZnZwaDV0dlh3MktmY2NDMWZ2X1NRSUJZOE1lUXJuUnk?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BPBD: 947 jiwa terdampak banjir di Aceh Selatan - ANTARA News",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-17T10:36:16Z",
+    "desc": "BPBD: 947 jiwa terdampak banjir di Aceh Selatan ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHpqZ3Z2amhmM0ZPR0lOdEJZSXJyOHNUT1dkeVJSY0UxS2dSd0dlUFVwR1hvMDdhT0w5N0FnVUZja0JONV9ONzJjeVFRTTVGTV9QdEo2NFJkdXF6YjRqOHE2amo5WlI0MjlKa3hBYTYxcFlRb0JVTS1HZVpYM2NjTDJpM25ReXFldXE5WlBxVmpid9IBlwFBVV95cUxNcGZQU0wxaTBScnMtMVlkNHhWR0ZNaE9NZGViRGM3SS10dXp0V1RTc1Vob2Q5QURKLVZYY3d6Y1lyN0xDTnBDMmRqSnRTNml5TVRISkFtNHZLOEwtUy1hOTNOTm42M3ItTXlNdXdmRVNld1VTNWZVTFhsemVOMzVnczhvQUlLMXNKUEllY0VObmR4eXhEcTFj?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Brimob Aceh Pantau Debit Air dan Bantu Mobilitas Warga di Tengah Banjir - Website Resmi Polri",
+    "source": "Website Resmi Polri",
+    "pub_date": "2026-11-17T10:35:05Z",
+    "desc": "Brimob Aceh Pantau Debit Air dan Bantu Mobilitas Warga di Tengah Banjir Website Resmi Polri",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjVQMzdKRHdXM0s5RXpfNEN0eG45WS03d1dESHQ0UWNPRnlmZ1ZkZVcwTUhrNFdnX3oya2E2bFRoUTRDRVg2M0Z4ZUd1VVU2UEFEQmNybW1tOW8xakxZYW5xRHlBSURWdFZTUWlVYndpZ0Etb2hiLU1qMldZdnIwY2tSNU1vMURKeklwXzVSM1llRXkzVWRnLUd5WTJvU09Udkd3MlBLelp5Zw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "13.417 UMKM terdampak banjir di Aceh Timur terima Banpres - ANTARA News",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-17T10:33:36Z",
+    "desc": "13.417 UMKM terdampak banjir di Aceh Timur terima Banpres ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckR3WmtZN190amh4QUlEdXhrUmt3c01wVHZBS1pYR2VxYW14Mlpnd1dPMElDYXA2NmlxMzZPUEM4RlRLUUx4Vmx1YnYybHRZdUJZMEJKWnl0ZlZOV3ZUOEFmdG1oYkp3eWhWeUFQSFptVFYxb3kzZ1pXWWYxMFJYYWRFXzVfcDhWVjJDVXZhdno3bnJwcG1xZGt3YklrcnPSAaQBQVVfeXFMUFhmamdvRWQ2YnA3UkFRbFVDeU9WWllqcld3V2RDS1J1OW5LVzhQcVpBdEl3eTlTdF9kMXpONjJ2NjQ4RldCMFJZR2NqWGJYeDBwZmZMTjNzdFBlZGFoYUcxQTAwNENsNnBId2ctM3VxOEJXZHR2WFowV2FUWjVybm05NHJubW9yQ3oyaUtLUGZGS2Uwd3dIdVI2Tm5RYVhFeHZoYlQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Terjang 8 Wilayah di Aceh, Puan Minta Evakuasi Warga Dipercepat - InvestorTrust",
+    "source": "InvestorTrust",
+    "pub_date": "2026-11-17T10:20:00Z",
+    "desc": "Banjir Terjang 8 Wilayah di Aceh, Puan Minta Evakuasi Warga Dipercepat InvestorTrust",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOE1BbUdYNG5jcHQ1Z1RyYk9MU0wwT3Y3STR1c0Fxam5NOWxQUEh5dHNvVWp6NmRqSFBfZGUycEZ3V3RqS2ZUaVRxOFZsM2lJckdhRUY5bGdxWmFMT0dxa0FzYlUtRlZ1UjlQUk5HTkNYNkZVN3NsbWhfTGdXYkZWRnhBMlBkRjlNcFBsZUZDVW5YQ2d2OWNELXY2QjVOSFVVQ0Jmam02akI3NzhoOGVz?oc=5"
+  },
+  {
+    "topic": "rehab",
+    "title": "Libatkan Warga Setempat, Jembatan Rangek Dibangun Permanen dengan Anggaran Rp710 Juta - KlikPositif.com",
+    "source": "KlikPositif.com",
+    "pub_date": "2026-11-17T10:06:14Z",
+    "desc": "Libatkan Warga Setempat, Jembatan Rangek Dibangun Permanen dengan Anggaran Rp710 Juta KlikPositif.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelpWa1dCbUxPMllNQW1oaEt4ejFVdVYzUlBHWXZRWWt4X3RPVjBqWGI1YXljQkF4UWEtOENkQjRpWl9Pb0RFSmhCWmwxT1lLRUViRzNVMHlrYzA2VEZUS1JkQjZpUmstTVZPLXNraUlsREV5RmhqdmdYUWM0WnBOQTJ3UDhOaUhZdzNxX05OVG9YYjg0LVFmaWNnQ1V2MGYxaFhwSUVYOGlBVU53MUE?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Hujan Deras Picu Banjir dan Longsor di Aceh, Ribuan Warga Terdampak - Universitas Muhammadiyah Jakarta",
+    "source": "Universitas Muhammadiyah Jakarta",
+    "pub_date": "2026-11-17T09:23:14Z",
+    "desc": "Hujan Deras Picu Banjir dan Longsor di Aceh, Ribuan Warga Terdampak Universitas Muhammadiyah Jakarta",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2YyYXEwWWRrTl9XSjcxYnBVNzZBQVAyZFZDR3NKWEMtUGtFdFFJWnR3bmpDdFpITzd3ZVJlZ1Uxd255dDFNZkx3THlkeVI4d2JWMHV6WTdYZXlTS3ZFUkotQUFxNlN1NFA1Mnk5S2JzX3paV0FiV3RlaFBTbjhPN2taMkM5bTdiXzgzZEYwRzdrRTcyR1Qyem93bw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Menko PMK Dorong Normalisasi Sungai dan Kesiapan Pemda Antisipasi Banjir di Sumatera - Tempo.co",
+    "source": "Tempo.co",
+    "pub_date": "2026-11-17T09:17:00Z",
+    "desc": "Menko PMK Dorong Normalisasi Sungai dan Kesiapan Pemda Antisipasi Banjir di Sumatera Tempo.co",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcldRMWpaSVB5Sm82Vkp0OWpId2ZXSGlIa0UxOEpLdnRIQ05tR29aZUR1TVlablF6RVA1X2dZbXhqTlNRbk5lSmpnbXFHSm5iSEdSalJvVWxHeXF0MlIwbEdxd2dJU3hfcXdSYVg2emhrZmJFNzNfd3RiMGNkOEk5ZHJXMUVpeDhMMHllYWNCNm9rYnY0T2FNSEs4SUM2V2RTM2hKRlkzbmdlZFhzVUROSS1zTGdSWFVUNWFSSnhRaEdnQQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Rendam 3 Daerah di Sumut, Jalur Lintas Sumut-Sumbar di Madina Putus Total - Waspada Online",
+    "source": "Waspada Online",
+    "pub_date": "2026-11-17T09:13:19Z",
+    "desc": "Banjir Rendam 3 Daerah di Sumut, Jalur Lintas Sumut-Sumbar di Madina Putus Total Waspada Online",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWRhUUd5ampWbjZwX3VvVVZkd2xQSFI5VWI2OVR5Zm80MmtndG5WaXV4UkwzLW9oNWh2cWphTURxODBiLXRZTThZUTZ3T0I4cU0xc2tjbUc0amtMOVItVDRReFR6N21DYURuT2g5dDkzTFdHcms4QmgydWJJNnZfZnRTelhKUUxTQXFTc2FPcEFGTmRySE9JelMwa052blVUZmNfRA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir kritikan, Raffi Ahmad sumbangkan Rp15 M ke Aceh - ANTARA News Makassar",
+    "source": "ANTARA News Makassar",
+    "pub_date": "2026-11-17T08:54:13Z",
+    "desc": "Banjir kritikan, Raffi Ahmad sumbangkan Rp15 M ke Aceh ANTARA News Makassar",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTENCUG5SMzVJUE1QblZ0MHY4NFdGY0xZcUJUQW9rUTBUcHVocTJPSXhWNnpJbTdyaEU0Tl9neXRHams1Q2I4aEZmVW1WVjhFdGRNWTJKR3RkWmR5eDRuVkFUNlNzVEZGbXFsUTdfbEVxOFFwYzl3QTF0VEpHVVo3VnpPN3doOHJqS0Mxb0w0anJYcGx4Tm95aXNOcEpPeFNB?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Menko PMK Sugiono Tinjau Banjir Subulussalam, Serahkan Bantuan dan Prioritaskan Normalisasi Sungai - Penarakyat.Com",
+    "source": "Penarakyat.Com",
+    "pub_date": "2026-11-17T08:39:26Z",
+    "desc": "Menko PMK Sugiono Tinjau Banjir Subulussalam, Serahkan Bantuan dan Prioritaskan Normalisasi Sungai Penarakyat.Com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFlsaW5PX0J0dmVISVhxM0pLS0NSQU9XN01XU3pZTFJCRExJbFJBTThzZmJ0Q0VabFZwcW5tbWhkQmMtelJzTXlvVlh4MzJDR01CRWY5QVFpVlJJZ1VldURjMzJKSXEwb1FNU3FzTEVSS3dWNi05S1ZsQkw4eS1rRzNkUllXRnJxMHN3d3RqMG1uWGJmRjRSOUZMMDJaTUFxV1pIYW5xRG1vRktsOS1QMThlQ1NrSVBTQ1ByUU5R?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "TNI AD Segera Bangun Jembatan Bailey Krueng Sawang di Aceh Utara yang Ambruk Akibat Banjir - Tagar News",
+    "source": "Tagar News",
+    "pub_date": "2026-11-17T08:36:27Z",
+    "desc": "TNI AD Segera Bangun Jembatan Bailey Krueng Sawang di Aceh Utara yang Ambruk Akibat Banjir Tagar News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0dVdDhvUzJCNVl2MndTWFVMaURvc2hOWXhGUHFDWWFqejJ6TmpicnNScTExZWZPa0ZwVlFMNVJGY2FGSGlMcS1xVzhnTnZHRS1PLVIybk5qc1MzWE1tdlh0bjRUM29HNkwxQVduYk9FaVRMb250SDF6cmVlbk14V09nMm5YdG5XRmZiUXVyZHN1Z3g5ejd3X1ZFRVg1a0VuYnF2dldfbXJVVXM3ejBtZQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Penampakan Banjir Rendam Rumah Warga Usai Hujan Lebat-Air Sungai Naik - CNBC Indonesia",
+    "source": "CNBC Indonesia",
+    "pub_date": "2026-11-17T08:14:01Z",
+    "desc": "Penampakan Banjir Rendam Rumah Warga Usai Hujan Lebat-Air Sungai Naik CNBC Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUZqZDVEa2llTnhoQjA2NHAxcjNoejF4RXJHaklseXczc2o5dlNacFpJbmNySGJnSFZfZDJCUDQwblBHQk92bFIzNEFBQ2hrRWpVMVRMN1lFa2ptWDFZU05lSzhjVW9RX29wcDBuSlJxeGk2bWwtcjY5b09yVzFxSUZNMkRLcUVQaW5KelhSR3l2MjYxY0xQQWlTWjg4N002eUdjMUVlOTBZcFJsc01CdGVVVnJiZjVhMzVPbFQ2QkhoWFBOZzJj0gHMAUFVX3lxTE5mR2FpRU5ndmJTczVaOFloYWVqamxDNF9HY0VRdG54T3Jlb21fSW5WWFF0Yy1PcTl4VmhQRGUyNjFtR0x6TUxTX3BMdE96a2VhR1pqeHpYbFE4c2lJeEhndGZtUTRFMndzQ0wyTmJEbndDODRBZVpQV05NejEtcTEzZGxXdlhJNWFNMGpMLWpFdkJQaHNlaDBmUlNOa1A2QjR1dUFLcTVXNXdNU2xuUE5pS08za3hyS0dWX3RaMmtUYldHZjNVWGJJclphZg?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Jalur Lintas Sumut-Sumbar di Madina Putus Total Diterjang Banjir - Sumut Pos",
+    "source": "Sumut Pos",
+    "pub_date": "2026-11-17T08:11:26Z",
+    "desc": "Jalur Lintas Sumut-Sumbar di Madina Putus Total Diterjang Banjir Sumut Pos",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOby1leEZIUFpRZTRKSmNtc1lfV05ZZGxsQ21ldEtWME92czdPdElwcVhiNTVOSVBqMTlFc1h6NzhtNGFzN2hIcUJRa2Y4ZlNxemIxQWdYTWQ3R2UyRnhzanVfbm1SWXZGbTQ5ZTZ3ZWVLTUFfVUFqVF8xbjE4dXlxallKdkVNeUZPeVJ3cXFaNjB3NERNSUVRZzF3VE9XUGFVM0RELU9mY2VpWi1XTU42Q2x1SkZ0anpWVTJj0gHAAUFVX3lxTE9uNF9kVFNyMzcyUVZESks4dUc0dzZFODlYTHUwanNwVmNSYm1WQzlGUHZEWlpqR1pYX25FY1Z0WUh1cWJNS2tNckFQX3dfSk9KdnV6TnFKQm0ybFZPbnhKZUlvbUtpOHNNNmpjYUg3cy1JU1U3Qm1YeTBZRzVZWTh5amY2dUNubFN3ak5SUHBnc1R4MzdYdkx0RmlGaEZ6S20zZktsOTdzU2Nua21IT0lHaGJVaTZlQjQ2UnIzUDE5OQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Sungai Rawas Meluap, 40 Rumah di Muratara Terendam Banjir - BeritaSatu.com",
+    "source": "BeritaSatu.com",
+    "pub_date": "2026-11-17T07:59:05Z",
+    "desc": "Sungai Rawas Meluap, 40 Rumah di Muratara Terendam Banjir BeritaSatu.com",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFR2UExkUVpSVmhudEtSWEdnejMzdE1aSXhpVmc2NEQ0MW1YWTV1TmFFaGpjYlBRY2dBbHF6S0s0b0ZlQktRUXhnaUxqRDhPR2NYV3NhZHJURWMxNWxVOWFDRVowb2hiRmVYamVuLXBFT01OZjBmRDJhaGRydTdkQVVVVVdNa2NHcXVPYU9kd1JEdVVLYURUcEJ3blFMVFE?oc=5"
+  },
+  {
+    "topic": "rehab",
+    "title": "Pemkab Solok Genjot Pembangunan Jalan di Paninggahan yang Rusak Akibat Galodo - KlikPositif.com",
+    "source": "KlikPositif.com",
+    "pub_date": "2026-11-17T07:52:18Z",
+    "desc": "Pemkab Solok Genjot Pembangunan Jalan di Paninggahan yang Rusak Akibat Galodo KlikPositif.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNnlZbmR2ZkROSHBmdF8xbzJXenBaSmxNczBHWnltZ2wtOGtVRkF2SF9zZVNPeF84T3ZvYlpYVGc0LTMxZl9uX2E0VXV2aldNS0VqVHpGX0FMYndpanNEeF9zbzh1VUlXUUlub0hubF9rX0praDBFR1Q0eVVpMFJmV2dGb1ctTUtoeHN2YUNEdlZuX3RYTGVGRjljZWNWYzBwc3ZaWA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Mahasiswa UIA Salurkan Makanan Siap Saji kepada Korban Banjir Pidie Jaya - Waspada.id",
+    "source": "Waspada.id",
+    "pub_date": "2026-11-17T07:49:20Z",
+    "desc": "Mahasiswa UIA Salurkan Makanan Siap Saji kepada Korban Banjir Pidie Jaya Waspada.id",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUJNUXI3SktPNFQxdWxmaGZnR1Zzbms3SExLQjBjSy1FRXp6Y2pZMUg4TjlnNzEwekZ2S3RibHZGRkVFQW54YThkZGhRXzVOak9jLXN0bWtrdnlDMHR3emVUS21MenRVTE9ldFl6R09GdXlHcjJ6MnlpeDR1NUs0V2ljdGk0R1dNMkU1anJYLXExRjhzQWdmTU5kYzU3MHpQS1J6MA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Aceh Singkil Mulai Surut, 13.720 Jiwa Terdampak - Sonora.co.id",
+    "source": "Sonora.co.id",
+    "pub_date": "2026-11-17T07:18:00Z",
+    "desc": "Banjir Aceh Singkil Mulai Surut, 13.720 Jiwa Terdampak Sonora.co.id",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk1LZURpbWM0WUdrSmlQOHhPeHQ4WHAxWVNJajBVa1ZEUXJFYWlkaXhUa1hPTXhQQl9OSnBXZUlLamIwR3RFWGgwamM2Zm1ZakNQSjBSNVF5SEhKOGlaUXRzVUZqVENNV0FLU0ZMX0UtVVhqbnl4RTlHZDZhYUVtWlF4LVNkQXhkNjlPeXpzWGZGYjA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Melanda 5 Wilayah Aceh, 21 Ribu Jiwa Terdampak - Tirto.id",
+    "source": "Tirto.id",
+    "pub_date": "2026-11-17T07:07:00Z",
+    "desc": "Banjir Melanda 5 Wilayah Aceh, 21 Ribu Jiwa Terdampak Tirto.id",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIX2gxT3VaZE9ub1lybkk5RnZvbmJoX3dBcEV0a2VrY21xV194VS1YcmItSXJKa29adEZXUW1xVy1uYUhLZmVPblRpWlBiNE9CRm4tT1VlZ1hDYk9YR0VqWmRxQV9vMmJVczBsMHR4QVI0dUFXSTZXelFfcTR3S1k?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Dua Desa di Aceh Selatan Masih Terisolir Akibat Banjir, Satgas PDB Terus Intensifkan Penanganan - Atjeh Watch",
+    "source": "Atjeh Watch",
+    "pub_date": "2026-11-17T06:53:20Z",
+    "desc": "Dua Desa di Aceh Selatan Masih Terisolir Akibat Banjir, Satgas PDB Terus Intensifkan Penanganan Atjeh Watch",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2hOSVBEbjBIUnZ2b1oxazBsNTNWM0IxbHF2Qk4tbHBnbVRVeXhSY1VhYUFKdUpNajVFVjdKSkFNcXp3dnhpMU83SzdEQVVsMnpYU1dxMi1ZVkNUSjBET3dyZW9rOElJVU1rVHpjVUZSMmtZdWFEMDdPenZtbHZDLVR5OEpzdkFTRFZWWWl2VUlfZVl0SVR1Nms4cUFEVnZRQWVOYkphZGRlX3FkV3VqNFpvY0FjU2MxbllsTWttN2NRby1jN1dyWA?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Cegah Banjir di Sumut dan Aceh, BNPB Siapkan Operasi Modifikasi Cuaca - MetroTVNews.com",
+    "source": "MetroTVNews.com",
+    "pub_date": "2026-11-17T06:33:33Z",
+    "desc": "Cegah Banjir di Sumut dan Aceh, BNPB Siapkan Operasi Modifikasi Cuaca MetroTVNews.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSk1GcW9sVlVBMV9aeUt3M3Z0OE9KLTM4UWxNSUFrS3hrTWNKZ0YzbGJlQ0tnNHJzN3dUSWxmeHBZaGVYLUVpUnh0cFB4X0J5NDNUMW1xa0FESlBzMEFtWFFqT2c1YlpxUDl5UU5QaUhwaHJkUEpyck9hWmNSb0djb0FQcXpvNGNLQk1GaDJPMzVxZGhHeDJvMjBCZDlqdTBFREQxQ2xVZy13R1g3a2l3?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Aceh Singkil Mulai Surut, Aceh Selatan Masih Tergenang - BNPB",
+    "source": "BNPB",
+    "pub_date": "2026-11-17T06:14:00Z",
+    "desc": "Banjir Aceh Singkil Mulai Surut, Aceh Selatan Masih Tergenang BNPB",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGV2MFMzclhCZkdvcjk2cUYwV3dTTHdBYlVpZmY2akRjOE5PWFc2eldvNC1pSTh6dzRUeTdQakhYM1JzcG5qQUY5SENJb2staWtwMTlrMGpuM1hOLVdMNlg0aE14eHI0WHVQa1F0UmpjNkJsN01QWTZIcV9nTi10Nm5ENFNrRGRERXJjRE9scw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Kepala BNPB Tinjau dan Salurkan Bantuan bagi Warga Subulussalam Terdampak Banjir - BNPB",
+    "source": "BNPB",
+    "pub_date": "2026-11-17T06:06:00Z",
+    "desc": "Kepala BNPB Tinjau dan Salurkan Bantuan bagi Warga Subulussalam Terdampak Banjir BNPB",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU9sXzBkTF9nLUpfbzNXcXhsX3JidEFwSy1GYS1xbnUyYnU3Sy15RUtBM3dMUmk2ZExEWm02Ry1IdkhhOEpvX2VrUVhNYURmLW1kUERKR181WEtSU3Y2eUltQmVCNUZyUEdLUHM3TXVkYWFxZ3lGTExnV2l0OGNZaWg5OUphcUhaWVMtVFgtM3NaZVBxRnJzM2p4UmtFUUZLOFFmTzNQMHdHUQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Hujan Intensitas Tinggi, Sawah Terendam Banjir, Petani di Sumut Terancam Gagal Panen - EGINDO",
+    "source": "EGINDO",
+    "pub_date": "2026-11-17T05:52:44Z",
+    "desc": "Hujan Intensitas Tinggi, Sawah Terendam Banjir, Petani di Sumut Terancam Gagal Panen EGINDO",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmxIWmFVcEltYXJwSms1bXJPN3BsZHVvYXNqU1FUcFc1YlNZcEYtRmJiVWtGYzBjZnJqQWJOZUFXa3JHcGx0TzNFakxTc2plT2o1cG9DNlV0dTBaWHZSRUE1ODBOaFk1elpFblg3eGd6R0hPcTRNV0tqVU9hZ0hjX0lpWkhlTW95MWVKdkppMkwwRXpDU1lxTXJtOUpmV0YxNTZ6Qw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Warga Binjai Nikmati Manfaat TKD Tambahan, 3 Ruas Jalan Rawan Banjir Kini Terang - Waspada.id",
+    "source": "Waspada.id",
+    "pub_date": "2026-11-17T05:05:02Z",
+    "desc": "Warga Binjai Nikmati Manfaat TKD Tambahan, 3 Ruas Jalan Rawan Banjir Kini Terang Waspada.id",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOamRyODVmTW1oZUE5ZVBTSU1xa0hhQWttTTY3Mnp1ZDcxZU03WDFTSkdOYkM3dlg0X0RQWl8tTl9hN0YwZ1pVbXZhcGdzeVFnVmxieTRBYUNIX28zV09CT2pGVnhUMFRRQV9ZYzR0RUhwaGdVM0RxSVpxN05ORjNiVzIzTWMtaFNMWm51RngzOGFjRUtHM1hXRWtIMUZZYW9SeUswcmg5bmRJVzBsZXc?oc=5"
+  },
+  {
+    "topic": "rehab",
+    "title": "Jembatan Rangek Dibangun Kembali, Warga Kampuang Kandi Menanti Pulihnya Akses Ekonomi - Langgam.id",
+    "source": "Langgam.id",
+    "pub_date": "2026-11-17T04:49:43Z",
+    "desc": "Jembatan Rangek Dibangun Kembali, Warga Kampuang Kandi Menanti Pulihnya Akses Ekonomi Langgam.id",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZLZlNBS3JKWTZVSlgxNHpCbzF2emIwWXpkTE5fWk15Z3NNSXZLYk1DVVpBTUJzMGZYOEJVSUZsRVBFSDhtTXItbTl1RGswQVpLeHFFUTJnd1g3aENkdWJ2RTJwT003TUw2dy01Y1VJNm91U3d4Qm1iMWI1aDNSVEJieWkwblViNEdzX2FaVlhFYXlBOWpYakdCQkpLeG5WeTZBbnhzQQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Jembatan Penghubung Ujung Bawang–Selok Aceh Putus Diterjang Banjir, Kapolres Turun ke Lokasi - ACEH BISNIS",
+    "source": "ACEH BISNIS",
+    "pub_date": "2026-11-17T04:46:15Z",
+    "desc": "Jembatan Penghubung Ujung Bawang–Selok Aceh Putus Diterjang Banjir, Kapolres Turun ke Lokasi ACEH BISNIS",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUk84UncwSFJlTURzTTltTktZZDFoYVhtQVFKYjBRSEQyektxc3RVY1NkTnB1ZkdWb3JxbTExNFlzc082dnNHSUdFUkpzM1pWX19HVU0xYXVCdHhrYWU2dHJkb2hVZDd1LW1ISnV6aU9NWUozOFJMMlhXM1drZGhSZ0hqZUlaZ19kUU56X1B4QmMtM25PS29lQ2gwWUxvTHpkTEpsZUxpUmNoT3JqRE0yaFJZWVRkb1lIYnlVb251ZkFSS3Z5amw1MmhsWHU3Snc?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Dony Arega Rajes Desak Pemerintah Cari Solusi Permanen Atasi Banjir Aceh Singkil - Atjeh Watch",
+    "source": "Atjeh Watch",
+    "pub_date": "2026-11-17T04:40:53Z",
+    "desc": "Dony Arega Rajes Desak Pemerintah Cari Solusi Permanen Atasi Banjir Aceh Singkil Atjeh Watch",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTG0wdFpwUUJGT2o2dzRnT2NaTWh0OWw2YzYxNjNJcG40bFlGMElMZGU1NWZGTGRrQ0FQaGdTLW1UX0pHai1oSTlEdW8zZFFwdHpiOWZKQjlmLWFQQkJqc1RhWWJUUmxxOUZMUGxFdC05VWJndXgyV2ZYa2ZfUTgyQThaRXh6bVc3N3N2c1NDaERpME1KZWtnamxtdmJlZXd6ZUNteDlNY3QzLVRXaWlRRzdyaTJJUQ?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "BNPB Tawarkan Operasi Modifikasi Cuaca di Sumut dan Aceh untuk Cegah Banjir Susulan - digtara.com",
+    "source": "digtara.com",
+    "pub_date": "2026-11-17T04:40:00Z",
+    "desc": "BNPB Tawarkan Operasi Modifikasi Cuaca di Sumut dan Aceh untuk Cegah Banjir Susulan digtara.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2gwSVhQVVFNRDJyMlpBNm5pRkljblFGejZaeW52T3FDZ2U1akdvZlFGN1o3OU1LOFlLNU0tSFF2WFl2THZCclhDMjZmbW9wRDZwOTF6U0diaHBwT1RlczEtcWk2TVJWMU9iRDBTdVQ1OTM5Q0tHZWhuMWM3aTYwYVJRXzJBWThBbmo0Q1ZEVlZ5eThNaGhveFdDM0trYmE3UjV4c3hqLWdqdHBRWEpySXUxazRHRFpZTTJWRUY0Ty1RTFHSAcMBQVVfeXFMTVhUd2o3bDdJR0VvaThEWnA5VU1ObWNqbVhERHVtRnh6OUtVNU96YXJuOVBLWkZ4WGJ0RlVjVjBMV2VFVWdkZ0xyU3hpVFBNbnYxdEpLdDFFSTROVXhWRXlzTktBaTZtMkRqaDlZbEZjOVFoNk95NXdQdzhWRTh2NTVsS1BZV2lNVjB6SHU1NklObWZ6UTZZQzN2ZnBkbEVqVGd4Y1BDQWVQTTBQTlR2V0NFdWNvR2pSaHFmSGkxN2RQcDQ0?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "TNI AD Segera Bangun Jembatan Bailey Krueng Sawang yang Ambruk Akibat Banjir - Waspada.id",
+    "source": "Waspada.id",
+    "pub_date": "2026-11-17T04:39:52Z",
+    "desc": "TNI AD Segera Bangun Jembatan Bailey Krueng Sawang yang Ambruk Akibat Banjir Waspada.id",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmZlRzV3bGExRDc4ejY5Zzdpa0xXWlUycUt1Xzh6LWltbVk3d1pOZTQ2cVFSN0RTYUJWNThnMzhLVnVQM0JYTjFPUXVhNUJBTDNkb2syZWlxNno3cy1PNk5RUm45ZUdQSTRHMFphdVU4cVhlNzQ2b2RrdWFYYVBScURpUURtUTlqTVFnbnJtMHRjRF9iUEh6U1paS2lGcnRkWVZmc0ZyV1FkQQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Mitigasi Bencana Sumut, OMC Disiapkan untuk Tekan Risiko Banjir dan Longsor - Deteksi.co",
+    "source": "Deteksi.co",
+    "pub_date": "2026-11-17T04:38:02Z",
+    "desc": "Mitigasi Bencana Sumut, OMC Disiapkan untuk Tekan Risiko Banjir dan Longsor Deteksi.co",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaGJHaFJzSUM4Yy1lOGFlNktZSHhpUXFhaXhOVHVuXzVsS3oxTGRHSzllMmFrbjlnYmtHTUZ6WmZ1MzVqOE9OWTNFekV2U1dKcEJhUERWQTI5djk1NjNIQ3c3YWlBUVNGV0Y5UndYak1vNGgyN20tTE5velVySC1yWA?oc=5"
+  },
+  {
+    "topic": "pemulihan",
+    "title": "Aceh Kembali Diterjang Banjir Saat Pemulihan Belum Usai, Matindas Semprot Sistem Mitigasi Pemerintah - gesuri.id",
+    "source": "gesuri.id",
+    "pub_date": "2026-11-17T04:34:00Z",
+    "desc": "Aceh Kembali Diterjang Banjir Saat Pemulihan Belum Usai, Matindas Semprot Sistem Mitigasi Pemerintah gesuri.id",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUZxTWl3eUZUY05Db3Y0dy1jamV1V21FSVBzVm1Ca19VNm1zcEoyZW92WnNTQ29Kb3dtdGNQcXAtLUNLQ0daR2tWOWlyaW9WUTBVV3E5d1VLaVhZM3RHbnFfQ1I2SVlsaW1VN3dRS0Z2U1ZvRjUyY09JMGZjTzZ3cW1YREdkNVpYOTlWMTNRVWdOSGpGWVpkaHA2T0F1LTN0QnRRTFdldHVScElDeXpOSmpCVHU2NlBIbWxkaEhhbFFBREExSG1OOXJhSnJicjlkYWNtWHphWUd0bC1UOUHSAeMBQVVfeXFMTm1ZX1drV0x6OF9ZNk9CcmFDYnBFSUd2YXJpb3BiMDJ6dTlwako4WkpFcGIzNExOWTd1YVJ2eGs1OG1rQm95anAtd2dpUEpIdEVQR2FfSUVUYUlyYXVIYVVvOXRGdU1WaVdUZHpCSkU1S3JEVjBuRHF1dHdTSVBhT0hGRzJFbTYxYmd2OXZZeFdYa1lROXZXb3M4cW1xNkdqNHVTbXRIZGFUOVl5THVuazBHYXJEV2EwUklza1E1NXp0UUtQVXJxdEc2T0ZDazJGZ0oxRHdjbUoxcGtZNmlkYUhydkU?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Ohku, Banjir Aceh Tamiang Meluas ke 81 Desa - Atjeh Watch",
+    "source": "Atjeh Watch",
+    "pub_date": "2026-11-17T04:26:10Z",
+    "desc": "Ohku, Banjir Aceh Tamiang Meluas ke 81 Desa Atjeh Watch",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVU9meFlRLUduV3ZEaXNDQ3ZLcHpKYlhLYVVJN2dxVk1YOGluSXA5czJWdlRCS2JRQjFScURhbXdMemdYeUJYMHY5T3VpSnlMWG1sOGN4QTJJajhDRWVVajlIclR4NnFWekdUQ2lTVnlzZVlkRjBPWGhKTFB4elVnNGNPdw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Rendam Huntara 4 Aceh Tamiang, PU Perbaiki Tanggul dan Bangun Kolam Resapan - Majalah Lintas",
+    "source": "Majalah Lintas",
+    "pub_date": "2026-11-17T04:16:00Z",
+    "desc": "Banjir Rendam Huntara 4 Aceh Tamiang, PU Perbaiki Tanggul dan Bangun Kolam Resapan Majalah Lintas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUw3OENZXzZhdHI5MGlGeWFxakZaMk82MTRaR25GQUwtYmpCdHItV29nbHlSNzFvY0NFRWl5SlA0OXcxYV9rMmZNUU1WNHdrbHgtQV9BWVFEY1NZYW51MjlFTGtfTUtYRTl3aXdSeHVkQi1WUHpBV0o0TUUzcmRKV1FneFFJNGNkZjNzSVJ3YjItTkhyd1BoNHQyU05fNEl6NWpiWF9ON0x5X19DT05NeGZn?oc=5"
+  },
+  {
+    "topic": "rehab",
+    "title": "Pembangunan Jembatan Usaha Tani di Matua Agam Libatkan Pekerja dari Warga Lokal - KlikPositif.com",
+    "source": "KlikPositif.com",
+    "pub_date": "2026-11-17T04:08:42Z",
+    "desc": "Pembangunan Jembatan Usaha Tani di Matua Agam Libatkan Pekerja dari Warga Lokal KlikPositif.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFBnS0gtM2pYWTNGaGlIRENEMW1WWlJUTjFNM3lYVUxHbXJRcHpTdDFJNUJNUGp6d3lCYmc2cVMyWi1jMDhZVDBrdWlKT0xOdUF1YWZkYUh0ODVYdHRaVHVJZlNnQ0szWWE1cG5qdS1SUFNQOWo3QzhkanEzWElVQmxfUXo2cW9ZNjlqZHJSVXJzbXMtOXlXSnBhRVdHeXN4TVptYWRtZw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BANJIR RENDAM EMPAT GAMPONG DI ACEH SELATAN, 947 JIWA TERDAMPAK DAN 233 JIWA MENGUNGSI - BADAN PENANGGULANGAN BENCANA ACEH",
+    "source": "BADAN PENANGGULANGAN BENCANA ACEH",
+    "pub_date": "2026-11-17T04:00:36Z",
+    "desc": "BANJIR RENDAM EMPAT GAMPONG DI ACEH SELATAN, 947 JIWA TERDAMPAK DAN 233 JIWA MENGUNGSI BADAN PENANGGULANGAN BENCANA ACEH",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONlJWdklzVll4TFlPV2dLaXFwcTRsVm56SHduX2tSaDl0LTUzSjFRZU1aNFBueC1lN1hPV21LWVliUVB5OGRnTHE1VHNXNmhGMUkxc3M0aVZLWGhxR2VWUE9kYkNJUXdCR2pfblcyM1pNb1A3TVpRYjlkaXdKQWRNMTZLeExvSVpBQ3RET1NZWTZCZWxUWDRoNGxxcGUwME9iQk9XY3R6V1NLa1g4Y2YzdW1xd2NtSGxrWmMxUjc1cEFWNDBhcEU0SzRZcjMyU3ktd0w0?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Realisasi Baru 34,62 Persen, Pemda Terdampak Banjir Sumatera Punya Waktu Sebulan Optimalkan TKD Rp 10,65 Triliun - Tempo.co",
+    "source": "Tempo.co",
+    "pub_date": "2026-11-17T03:49:00Z",
+    "desc": "Realisasi Baru 34,62 Persen, Pemda Terdampak Banjir Sumatera Punya Waktu Sebulan Optimalkan TKD Rp 10,65 Triliun Tempo.co",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaG1WV2NIalkzQ2RvWDhQYkZSVE8xZDJyNXdwZktXOU5uUy12bXI3T3E1Z1RfNHB2TE1qaV9Fc05HYmZxX0pocklGTXdNekRBSG5QWWNNT19ZSDRVNGVyUFk1THhKNlFKeTZpczloU0VyNDdVdzRxR25vQUNHMjRKMXNqSzVNVHdKWGhWMTJlMEs2SENzRFNUQUx1bndTazg0OERNWnNPdFNkMnRnZlVFeFdIcGtleTAyLVF5YWlyZkg4TTBsTjkySElVOVY1UzZjLVRLRzA5S21ybUdDN3BBbUR3?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BANJIR MELANDA DELAPAN KECAMATAN DI ACEH TAMIANG, 3.538 KK TERDAMPAK - BADAN PENANGGULANGAN BENCANA ACEH",
+    "source": "BADAN PENANGGULANGAN BENCANA ACEH",
+    "pub_date": "2026-11-17T03:16:50Z",
+    "desc": "BANJIR MELANDA DELAPAN KECAMATAN DI ACEH TAMIANG, 3.538 KK TERDAMPAK BADAN PENANGGULANGAN BENCANA ACEH",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS295SkN3WWVQTWtDVE9tdVlSeDJjelk0N1FHUFZJdzZ5RXRmS0E4VHg1UGlZZlhVMzdrT1VCdTN0YWE0Y0ZuN0tyNGxBV01lSFV2eG1YV1MwdHNOQ2wyMmloM0RucmxCd01aUGIxTmpWUXR5TjVLbDB1cWxCc3pYRjBZaFNmTVUyMWVBQmc0Ul90WHQwMHc5Y2hfcHM2bmNCbi1iOVItWVNOek9pSDExRXNBTmt2TzgtQ0E?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Modifikasi Cuaca BNPB untuk Sumut dan Aceh - JournalArta",
+    "source": "JournalArta",
+    "pub_date": "2026-11-17T03:15:06Z",
+    "desc": "Modifikasi Cuaca BNPB untuk Sumut dan Aceh JournalArta",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XSHd5Nlc2VGYwX2lqTGVnUzRvUGdFUDFWYmNDNmRLYVpQR0VVeEpvTExOd19rMDhjMWdOVFFGd184bjJqWTk3bGhaYW5peFZyQUE2MDU4YzRaUlJxSHl3QThXSnlNb2EyTlhEZHBfYUxSRm9QaTFldnFwRWR4dw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Berita BPBA: BANJIR RENDAM 17 DESA DI KOTA SUBULUSSALAM, 2.010 KK TERDAMPAK - BADAN PENANGGULANGAN BENCANA ACEH",
+    "source": "BADAN PENANGGULANGAN BENCANA ACEH",
+    "pub_date": "2026-11-17T03:06:45Z",
+    "desc": "Berita BPBA: BANJIR RENDAM 17 DESA DI KOTA SUBULUSSALAM, 2.010 KK TERDAMPAK BADAN PENANGGULANGAN BENCANA ACEH",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0RCUWlKZzc3bFRKRDVIRTVjX0NoRmpnaFBDbW5mUllCeVR4NHAzSnU4MmtGNGJVdS10MkxLblM1VVNua2FRcFJkbU9wdVJlQVVGMGhlYUxiS0dxLW83bHU0YkRyQkxhYzhTclZuREJKVWFON3RySzNENWpZVnZyd3Y1U090NDF1c1l4RHRPcHRwWTUxX2huUVF4MTFLdzU3d2paZ19rVVNCR2NiQzEtQ1huQm9sSDBQ?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "BNPB sinkronisasi mitigasi bencana hidrometeorologi Sumatera - ANTARA News Sumatera Utara",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-11-17T02:55:17Z",
+    "desc": "BNPB sinkronisasi mitigasi bencana hidrometeorologi Sumatera ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczBsZjJ3YzBPNlE0TTU5bFQ2bGNEb1FXSWhLdVJLRzNRZnZ4NDZLMmk4R2FLcWhPRDZYNFF3OUw4eW90aXBYZ2E5WEFMc0F5U1dNb0RUUGZDMmpHQ3NsMzE2RFJEQno2ODNwZGZTOE53bWpEZW41dFh2RWVsRnJlal9EaWEzdnVleHBSRE92LUUzMXFSb3dxUkJFRjhyV0NlU0g0bXh30gGrAUFVX3lxTE93MDJEeU1RQXdWQzFWR3dfeFkwSHpTbnFuVWFheVVUeXBTNTAxWGF2cmN2dTlpOTFzV1IzV2FrS2JNdUdIbWthRklCV3A4Rmx0a2pCNC15OVlQTVVsSE1icFBGeVVoV0k5RmRHd2s2dzQyZnpFLTZNTFl1WDhvUmZkQUljS1NCaEhiYkpob0VEUlpoU1JfeWVEVzhmNkN3SElfN2RYQngxYlM4RQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Hutama Karya Garap 4 Proyek Pengendalian Banjir dan Sedimen di Aceh - konstruksimedia.com",
+    "source": "konstruksimedia.com",
+    "pub_date": "2026-11-17T02:48:19Z",
+    "desc": "Hutama Karya Garap 4 Proyek Pengendalian Banjir dan Sedimen di Aceh konstruksimedia.com",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3pQd05BejRROHUzVWo0T1BhOThibG9kU19xanFwejBiX0ZGS1VkRGhJU3c2cDdwX3lkLWtLcWh1czM5M016d01yTGhuWlhGWV93TFRFNm9KakJrY0NnbExmNFNBWENkcFVwVFd6TUNSa1NYcGtDaWs4WGJVY3Ntb2NleVc5YVpTdGpaQjZXVlFNM3B0cnB3cnpDTVM?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Cegah Bencana Akhir Tahun, BNPB Tawarkan Operasi Modifikasi Cuaca untuk Sumut - Start News",
+    "source": "Start News",
+    "pub_date": "2026-11-17T02:46:38Z",
+    "desc": "Cegah Bencana Akhir Tahun, BNPB Tawarkan Operasi Modifikasi Cuaca untuk Sumut Start News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlE4cnZGUlI4aVNRVl9EQ1dINXhKOWc0a2N2eW5RT1BnQWs3Q0VoRFNhcFJqWVg1VU9jQkFYMnlDaE9XTGU5ZkJyaUFXYTNmZVZpS1B6YVNQLTBhYkdSenduaURMTklvd2ZjVFBCbTJnLURHN0sxeTVRbjNwd2p4SUNCQ2JCWXlrS1J2STk4cDRHeUszS3VDX0x1ZlNUcnMyWnIw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Terjang Tiga Kecamatan di Aceh Selatan, 947 Warga Terdampak dan 233 Jiwa Mengungsi - Aktual.com",
+    "source": "Aktual.com",
+    "pub_date": "2026-11-17T02:45:58Z",
+    "desc": "Banjir Terjang Tiga Kecamatan di Aceh Selatan, 947 Warga Terdampak dan 233 Jiwa Mengungsi Aktual.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVQ3Tm0xMDJOb1RsQ2xvSkhBdkc4UEZiZDdYMURMMjBWajltME9rZ0o1cTdnQTM1VFNraWZNTWxpLUpvam1yME1CLVUzY3EtMm5pV21zcVVPVi1UOFpDbDkwUU9TQk9RdUpuZ3pQY2VHYnozVGVyUmpjdlJQSUNvTTRYRWUwbURjTmFQaGluZ0xCVHBzbkczLWRFcTJGakhTLXQ5S2dDTWpRd1Iz?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "45 Kecamatan di Sumut-Aceh Masuk Zona Siaga, BNPB Siapkan Operasi Modifikasi Cuaca - Pojoksatu",
+    "source": "Pojoksatu",
+    "pub_date": "2026-11-17T02:34:00Z",
+    "desc": "45 Kecamatan di Sumut-Aceh Masuk Zona Siaga, BNPB Siapkan Operasi Modifikasi Cuaca Pojoksatu",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXhwdkhIMV90MjB5bzhidmNCSl95SXB5V0pvNGhrakJfQWJNVHhjdjV6TDdqT3RydlNSRzZ3OE96bXdUMGxXY2RUeU1IQnR1d1R5clpXeWVLRXBVM2tGN1VmMlpycDZYbU9CcGlNdzNYTGw0c01jUHFIX2kxa203M3k4OE1vWVlHNl9icG03dGI4clgta2pYeTdXb3NQREFwZTRmMDUyckxoUTB4aHoxZw?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "BNPB Siapkan Operasi Modifikasi Cuaca di Sumut dan Aceh untuk Antisipasi Banjir - Nukilan",
+    "source": "Nukilan",
+    "pub_date": "2026-11-17T02:30:05Z",
+    "desc": "BNPB Siapkan Operasi Modifikasi Cuaca di Sumut dan Aceh untuk Antisipasi Banjir Nukilan",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3I0MnZyajRubGFFMTNJdGZpNU9mT2xhSkQxR3ZCdUJWNDNVV3pYMHcwbkJwdmZlV0o3QU9vREttZ2NZTGt0cXV1cTY3Nk01eXlvWFpVcHFCMzA0dVBLdDZzMDd6UHhBSG9TdmcwZTlMb3VfeGNQTnRjdXV1ZEI0bi1nNkkwVVFrSkRTcnlJMkh1aDZHTktTWUptLVdaRHZy?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Banjir Rendam Ratusan Rumah di Rantobaek, Akses Sumut-Sumbar Putus Total - Start News",
+    "source": "Start News",
+    "pub_date": "2026-11-17T02:01:54Z",
+    "desc": "Banjir Rendam Ratusan Rumah di Rantobaek, Akses Sumut-Sumbar Putus Total Start News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVJmaGpNZkpQbnRrUXNJZUhBSjFTeUtHcXF1MXd2dTVHaHVIcWZMZktaVmkyN1dvbUVTUWVzWkd0dTA4OVFROVhaTXYtQzl0VGpfdjhoSF9FaVpPSUU1dDlyTW5mNVp6NUlxZ0s5YWo4XzFuU2RJdlBwYUY1ZnN0NVdNUEhNOVlTOUk3cXU1U0JYdWZFenZOdF9Pb0w?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "BNPB Siapkan Operasi Modifikasi Cuaca di Aceh dan Sumut untuk Antisipasi Banjir - Informasi.com",
+    "source": "Informasi.com",
+    "pub_date": "2026-11-17T02:00:00Z",
+    "desc": "BNPB Siapkan Operasi Modifikasi Cuaca di Aceh dan Sumut untuk Antisipasi Banjir Informasi.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVRZc1dnRUh2Y1N6VGxMRmxFYzE1Wmg3bEdsb256Y3p6Q0syUi1oTFRBNFlzYnEwNW05VnVxaUtoYjhTZlVCY25RbENSQzhlUl90N1k5YjlVYU5LdHpJaGh3MVI1NFlnbVkzSTk3eldkOHdwcjNjbzk2b3F1azFWM1VhMlZISEVqaERMWlV1UTFxYm1TQmRKQ0pJWm1wNnhxTlJuVVQ3UVJXMW05QWxtRTc1TXRsTzlpTm5MTg?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Prabowo Perintahkan Antisipasi Banjir Bandang Sumatera agar Tak Terulang Lagi - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-17T01:59:00Z",
+    "desc": "Prabowo Perintahkan Antisipasi Banjir Bandang Sumatera agar Tak Terulang Lagi Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakdPNElDTnJxbi1xZC1HQkpVZnNMM0VjRlVlVkEzcnBlRk5JVFVWZ2U3MnJKTFB5dlVxa09kNmFIYzRDdFl3RmFhb0p1cFBRdHlSU3BkSXNMcUVNaXZGWW5MLXlpdmI3ZWtya2ZYSzZUOGFLd0xMSWdoM3lrekRNVmU2ZUR4Y1Zpb09nT2JfSUt5WmJjSlhici1XTmdTbl9IVEgzS2NqUDh6djZfYXBGTGVRdHYtT0JObHpXc291amNhWUk?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Aceh Dikepung Banjir dan Longsor: 15 Ribu Warga Terdampak, Pemerintah Bergerak - kumparan.com - kumparan",
+    "source": "kumparan",
+    "pub_date": "2026-11-17T01:30:00Z",
+    "desc": "Aceh Dikepung Banjir dan Longsor: 15 Ribu Warga Terdampak, Pemerintah Bergerak - kumparan.com kumparan",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzNKUGtJMV90TzU1Y1hmemZ1cnRKdGZ4cHdzeDhnbUg0dzVoWE1MSkFzeFFlUU9SNUdQZlJ6U3hZRGtwMXpCbncySDRINTlYMzV2QmNkVEx0Rnl5M3VUWlN4Rm9oUGdpUE5nSVRndnJNWHBRMTZsTTEyZ0V6YVQyWWFpcHBPSENIVWlZR1BKa19QOEVuVlZVSzVVM29aUVpGbG8tdnZVdXFmS0xpNUdUTGFoNGppaWxETUd3WDF5UdIBxwFBVV95cUxPbzhoSHJCNkR0dE85dGZ2aGhnT0JwMjFUdkl5QnAyOEh3T2dURjdBNUJfOXZxZ1Q4OUp3Ynl3WVRVRDlValNrSm9IS3YzWGd3dG9uNEtWaHN5SzByUGFOcHVrVXB4dFVmYTBTUWpxY3oxNWVDMjBhbXZYN1B6NWw5blpUWjUxWEozcTltNnRmb1IyUE91Rkl6SVM3SVpVQjJhSFMyWHpnYmdNWTkzdFk4U0VoY2NtSG9iaDFsaVRDTGo5V2FkREZR?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Bobby Nasution Minta Warga Sumut Waspada Banjir dan Longsor - JournalArta",
+    "source": "JournalArta",
+    "pub_date": "2026-11-17T01:15:06Z",
+    "desc": "Bobby Nasution Minta Warga Sumut Waspada Banjir dan Longsor JournalArta",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFk1V0FsaTBXSjdLbVJObkl5QTE4QmRhSDZBTk10cW1iUHVZdnJROUpzQ2NfOFl2dGozUjBjby1sQlFob1V2cEc4MFJGNi02NlBUOWxXUXQ4U1B3SjdVXzg2bVhvQk9lTS03QmdVNm5oSVhBQ2Z3QmZpUGtEYmlqSXFVTGg?oc=5"
+  },
+  {
     "topic": "banjir",
     "title": "Sebanyak 22 Desa di Pidie Jaya Terdampak Banjir Susulan, BPBD Percepat Pemulihan - InfoPublik",
     "source": "InfoPublik",
@@ -32,6 +656,38 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3hHZnJCTE1jRXNqSGxrekp4SU45SzdfUndDZ1V0REdJa25sanh6ZkV6dnlZTGRWT3ZraUlCOHlkanlNaTVQMmNwbk1rVXBLcVhsdHc0UDZXYzZwVURLMk1yQV90blpHaXd4T1M0TzJRaVZsSFNyMVBjRjlMU1NRUkR2Y21zQ2ZkQTdYclVvNjgwckJHQ3prTVBXQ1Y4RlhocEtGcTdHRkdfbUNqaFBvanlIQ1JqbFpYSlFlNi1zYXQ3QlJMaHBJ0gHMAUFVX3lxTFAtN2JyaWhNc2EwbnVSNGp1RkV5SUVEQVZXOFZXc2RIQ0tHcC1SVGhTQktMeVozcmtvUEc2RWZ2Q2djd1h1aEhfUkRNR1ZDS2hxRFBUd2hiQTE1VTBkbnlpTHZrQy1yMkthYXNuNkV3VlloTldsTVdrdlYyU0NEdXFIMUoyNTB5cDZmZGlVOWVwNk44c0JOR1dHZ3NvWVg1T0dhOFFueE9PRno4eXY1RWl5b2NHbFBQUlR1bGI5Tl9Ya1pTZUZSMnR2dEpIMA?oc=5"
   },
   {
+    "topic": "banjir",
+    "title": "Waspada Hujan Ekstrem di Sumut dan Aceh hingga Akhir Tahun - BeritaSatu.com",
+    "source": "BeritaSatu.com",
+    "pub_date": "2026-11-17T00:10:00Z",
+    "desc": "Waspada Hujan Ekstrem di Sumut dan Aceh hingga Akhir Tahun BeritaSatu.com",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVhaNVRYanZIOUVZXzVacEo3ODFMSG55Y3FwZTZKM1RWY0RHa083M0M5ck81ZDhiTGVieDlDX0pPTGZnd2pHd2xuY3ByeTdTMVlsbDVRS2U5NWhEVkhVVUVacndNQWtldC1oVHpvdDRtTWQ2YXFyR3FCYTVVT2NRVHI5N0JueE9IVjlnd2p3RW1wUEhhc3hCUDA2ZE9POUxHbXc?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "BNPB Tawarkan Modifikasi Cuaca Cegah Bencana Susulan Sumatra - MetroTVNews.com",
+    "source": "MetroTVNews.com",
+    "pub_date": "2026-11-16T23:47:56Z",
+    "desc": "BNPB Tawarkan Modifikasi Cuaca Cegah Bencana Susulan Sumatra MetroTVNews.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjgxWGVrRFdxaTJCdk11RVJMY1FqQlRoSTJLYzNMNEJDekJldzZycmlrT3lQd3hDNllCdDZ4UXRaczJRUzRYZFdJWjQycGZzcmdOdUJxajhodk14X2dhY2VjbkoyeWFxelFiLVpsTmFuZXJTZTU4OWVZbnA4REFxTVljRzlNNEpTMzEwVU11bDFuNlZsTFRUeEVXR0FFd1o1Z0I4cQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Sumut dan Aceh Ajukan Modifikasi Cuaca untuk Kurangi Hujan - Bisnis.com",
+    "source": "Bisnis.com",
+    "pub_date": "2026-11-16T23:29:57Z",
+    "desc": "Sumut dan Aceh Ajukan Modifikasi Cuaca untuk Kurangi Hujan Bisnis.com",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXlaWUhBalhDX05fazlkZnRCeWNBYUJCT1l3bjRDWUF1emJoNnNtTXhFSll1T2dzVWlPd2ExNnN4SG5YV3dlaHNoaGQ1RjNMVHI2ZEhpN0F1SGtrZllhNXVDcVFJQ0xWekFCNHc2WTJ0VGVXS1JCQVNXRUhzTHM3WEtwLTRsNk5KUlhCODNGc2Q3V1ItYTc5a3pMN014UUc4Qk85dHVKQjlvV3FxZGJNZg?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Cuaca Ekstrem Mengintai Padang Pariaman, Warga di Zona Merah Banjir dan Longsor Diminta Mengungsi - majalahfakta.id",
+    "source": "majalahfakta.id",
+    "pub_date": "2026-11-16T22:51:20Z",
+    "desc": "Cuaca Ekstrem Mengintai Padang Pariaman, Warga di Zona Merah Banjir dan Longsor Diminta Mengungsi majalahfakta.id",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnF0dkFIWUNTNTJHNHN5N0lxeV9tNm5Vb1h6YU1fWGxxcTRnRTdiazB6V3pYT01BcHV6S0tGcXppZnVsb1FtNEpKUzZ3STEyNl9iSU5PNG9rRFBNdFJRN3pOeWVyM2dDaC1FdUYxQlBhbGVidTA1SmJmOEl0WHpyQ2wxU0x1eERrejhtQjZkX0JpYlNQbTRna2UwelFPQThtNE91Y255QXprRHUySWpyX2lpSmMzSk5BUzU2UkR3?oc=5"
+  },
+  {
     "topic": "darurat",
     "title": "Mitigasi Banjir di Aceh dan Sumut, BNPB Modifikasi Cuaca Untuk Kurangi Intensitas Hujan - Kompas.com",
     "source": "Kompas.com",
@@ -46,6 +702,14 @@
     "pub_date": "2026-11-16T16:49:18Z",
     "desc": "BNPB Mapkan 179 Kecamatan Siaga dan Awas Siaga Bencana di Jawa dan Sumatera Head Topics",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ozeXRHMkhWNllFMzJ2NkxHVzdqdVl2ZXlBWF8zbkRrQm1DREo1Z05VbmVBMjJDNG9sZUhRV1k5RkhLclp3eEtzS2MzOGZSTFd1X2hGc01xZzgtUG11R254MTBWcTZySHFzWlIxQzNTQ042UXBTVnM2bVZtQV9RdHMwQ0cxVzVRTHZUZjdPOVhXQ0FfeUR5UjFLUXNjUQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Pemprov Sumut Siapkan Operasi Modifikasi Cuaca Hadapi Ancaman Banjir dan Longsor - Independen News",
+    "source": "Independen News",
+    "pub_date": "2026-11-16T16:41:00Z",
+    "desc": "Pemprov Sumut Siapkan Operasi Modifikasi Cuaca Hadapi Ancaman Banjir dan Longsor Independen News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM004cXJTc0Zpa2wyLVlUSnBjcHpsQWFYMXlQZnV4dFNza0h2Vnl3U1JIV2FoUkx6QXROUHFqckl2eDVCdTJBcXJPaVp3ankwOUZWRXZDUkd0QTF5M3ZKNzJJUzNLeDlTMGtQdEFwLTlMQ1RVQUFQQnhlZnVPUUk5XzZVbzh1eUhwVmhsY29FbTJ4T0FnSU5HNjhvdFZQbHN6MXB6U3pnSUZPT2RG?oc=5"
   },
   {
     "topic": "darurat",
@@ -89,6 +753,14 @@
   },
   {
     "topic": "banjir",
+    "title": "BNPB Ungkap 5 Kecamatan Berstatus Awas Bencana Banjir pada November 2026 - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-16T15:57:00Z",
+    "desc": "BNPB Ungkap 5 Kecamatan Berstatus Awas Bencana Banjir pada November 2026 Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONi1Va2NIS3hXMnFGN3pkbEJqdk1WXzIyTGtPV1VJRzJNQ1R1b2ZKckY3a1BsR3hXcklCZWN4c3VNSUdMYUNJOG41dzJRUjA5N1RYaTUwVWUxa0tucXdlVS1WNXhFb3ViV1RWaWdKTVhJM1haam1iaFV2cUt5eE5oRUpmOExXYmVwOEE1ajV5NTBNYlpvMVVjT3BVZE9EUU9wR05nZVo3Rmp0RXRQLTRBcnhrb1RxRVhyMXRmejl4QURVUEk?oc=5"
+  },
+  {
+    "topic": "banjir",
     "title": "17 Gardu PLN Terdampak Banjir dan Longsor Gayo Lues Kembali Normal - Waspada Aceh",
     "source": "Waspada Aceh",
     "pub_date": "2026-11-16T15:22:46Z",
@@ -110,6 +782,30 @@
     "pub_date": "2026-11-16T15:15:00Z",
     "desc": "Menko PMK Prioritaskan Normalisasi Sungai, Antisipasi Banjir di Sumatra RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWJvdnRYWEN1bWFlYWR1M0xmb1R4bEowTWE4dWVzamtWeXRadUQzZGcwVlkyaUdsVTFCbzRHSExRcmZxYWpQNzhPdVROek1vMWFpRDNITWZ3SHJ1elVBejRYREtSMlhWTjZkZGdTYWFQZVVWYU5Hdi12eDJ6eE41MGhwWlJWalJpMm9DcFhoMEVhbUVITVp4dFNIb0NjZUxHNVB5bnB1TTA?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "Prabowo Dua Kali Rapat Bahas Bencana Sumatera, Tiga Provinsi Diminta Siaga - VOI.ID",
+    "source": "VOI.ID",
+    "pub_date": "2026-11-16T15:15:00Z",
+    "desc": "Prabowo Dua Kali Rapat Bahas Bencana Sumatera, Tiga Provinsi Diminta Siaga VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFlIRjM4LUJpQmQxTXp1X1h3TV9RQ19YQWljRVVoaFBaZkdLWXd5cS1nT2NKQmhidmQwc2tBNlhlajNhOXliQ1ZZNy1RbTNQNjlJekd0Q2J2WmxNSVVTSXR1UnlHUkhRa0dFSE83bWNHb0Z1b0o3TDdhU2lhNEs5OWtsdTBRMklhSEVSM1dMV1hFUW5hdWZRdXplZDJ5VEo1S2lvc9IBoAFBVV95cUxQRzRRQXloclZjblg2UzJ1QUtzcjBqVWlEMG95cUh0QXJqY25BTVZvdDlsQUx3REpMdTdaSUQwRWlQYVVyNUh0ZFd5Rjdyd0tZLWQ2RFlvbGJ0R3ZxRGo2dUJXYi00bS1zRzh2TlpxTzBhYWRUbE4tUk9lRG04cm50dlhaZUVrbUR1cmFPR3JXdmg2VnkzeHF1dklRQzZBSUhQ?oc=5"
+  },
+  {
+    "topic": "darurat",
+    "title": "Menko PMK: Presiden berikan perhatian penanganan bencana Sumatera - Head Topics",
+    "source": "Head Topics",
+    "pub_date": "2026-11-16T14:57:00Z",
+    "desc": "Menko PMK: Presiden berikan perhatian penanganan bencana Sumatera Head Topics",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1RpMmwweTVIWER5bDRvdnZ5WlZLaGlObUVrelRKX0JFdmNEQS1VX2tnRWFkbVl0OU9NTXJWQ1FEUjVaYkdla2ZFelppY2pLTHlMN3BJX1hzUE9sMlo0ZGRUMHRaRVhLU0VkdEQwbWFlMjdKSGpkU3g4ekU1amZCR1NVTjY5N1hBUEM0dUFucUs4Y29NU2xzVFNTSQ?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Hujan Deras Mulai Terjang Sumut: Medan Banjir, Simalungun dan Madina Longsor - Kompas.com",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-16T14:44:00Z",
+    "desc": "Hujan Deras Mulai Terjang Sumut: Medan Banjir, Simalungun dan Madina Longsor Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHhtTHVTUzRab0tubGdtQ3drLUpOemw3SzVINjZRbThTWGlYTlFJdXRSSlJWaXRLTmJId0tMM2M1RVBJYjZUZFRjUUhTMXhBRVZYeWRoSEVPcE1DWFNOOEdPaFF4VVBfWnI3WklSZjluMElJZVozUFZQMDU1N3F3bmktNG9FMGdkU2NnSnFRdl9jNGdhV3hmZDA1VkZERV84VFFBVWNFZUtFU2t6T24zRHhxSUZ0d1hMQXZlVEh2VWFlSWM?oc=5"
   },
   {
     "topic": "darurat",
@@ -465,6 +1161,14 @@
   },
   {
     "topic": "banjir",
+    "title": "Sumut Siaga Bencana Akhir Tahun, OMC dan Normalisasi Sungai Disiapkan - Kaldera.id",
+    "source": "Kaldera.id",
+    "pub_date": "2026-11-16T10:37:00Z",
+    "desc": "Sumut Siaga Bencana Akhir Tahun, OMC dan Normalisasi Sungai Disiapkan Kaldera.id",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmFwNFFlVl9NNnRoNFVCeFVRZEtYZGhfU0NqaFlBTFd3a1A4NHNSa1Y1VEthNlNjVUVXcnp1N0FfSTY4TEl3Vy1FWWNTdnBpaExBVUkybmRoZXl4dUFFb1pzNUR5ak05a1d0cTJkYXhiNlAwd0dFNFJlMW14WDR5T0l5LXhleEp1MG9mcnlBNktDU1dnOV85T0dCbVl0NnIxbEE?oc=5"
+  },
+  {
+    "topic": "banjir",
     "title": "Aceh Minta BNPB Modifikasi Cuaca untuk Kurangi Intensitas Hujan - kumparan.com - kumparan",
     "source": "kumparan",
     "pub_date": "2026-11-16T10:24:00Z",
@@ -566,6 +1270,14 @@
     "pub_date": "2026-11-16T08:48:39Z",
     "desc": "Didukung TKD Tambahan, Pemerintah Targetkan Jembatan Inunang di Pessel Selesai Desember 2026 KlikPositif.com",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDdpbkxNbWowb084N0tMdDlEaVI1ZDl0bTdoTGM3bnpoQ1Jfc0ppQXdya2JHd2lyUTI0b29KaVhCc3l1UzEtdFQzNm8xUEpYV2xUNVkxcnhmYk5KQ1gycndlZWtTc25jZjlHUFZlaUo4ank5VGRJUjhVdFNTU2xPSERkU1pfQzhsUlpTbEU5VS11b2RnVGhrYlBuSjU3ZXV2XzluMEFyNTZNNUdLRXlBZFYyLU95SE0?oc=5"
+  },
+  {
+    "topic": "banjir",
+    "title": "Awas Banjir Akhir Tahun! Menko PMK Sugiono Turun Gunung ke Medan Pimpin Rakor Darurat Bencana Sumut-Aceh - BITV Online",
+    "source": "BITV Online",
+    "pub_date": "2026-11-16T08:42:00Z",
+    "desc": "Awas Banjir Akhir Tahun! Menko PMK Sugiono Turun Gunung ke Medan Pimpin Rakor Darurat Bencana Sumut-Aceh BITV Online",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTVJuTDFpNkZuczZScThGVU04Z19wbnJPZjkzR1NkOHdqUWlhQUItbW5CQTBIRjlyOVBGSWlRYzRrcDZNUWRab3FqRkZlckJuYm8tSDFENnNHWmh5MER4cGhpSzVrblZiUUlGWVBob2Nma0VKb3lrVHNiMjVlcUpCVndxVWJvaV91OGtlcmxkamV1aWJfZGpEU2wwdURNSDlTUExZSnZDV1Y4RVk3QTd4S3dXYTNpZzFVZkxpdUlfOUR4SVdGZF90dU9LaGdnLVo3T3JXSFFQMTRvcjFVbEJRcDk3Y9IB4wFBVV95cUxQbnZ1Wi1US2FSVDcwQXpuSHdVYVZ3MmwxWHdNR3F2d1prQzRFSnFVc1RMb1cxWWVPMHV2RnVfeE8wNkkwdzdNTzZwdHkzeXNPR1dfZlBGUHVZZVlNNVc5VEpiQTlsN1J5UzVQX0M3ODdrZ1gyZndfcU9IaDlsNm1WWkluRkpXaUpCZlNVNkZlTzBqUU1DR0xDMDdxSkI3bjVLWllnLVFERlE0RG5iTVhoWGlQcnhNZFdBYjg2OC1EZ3ZtRjlPRVVaald0MFhQdTZVX3VHU0pOWjFiYXNvckQxUlcxbw?oc=5"
   },
   {
     "topic": "banjir",
@@ -100857,6 +101569,14 @@
   },
   {
     "topic": "darurat",
+    "title": "Hasil Rapat Evaluasi Merekomendasikan Perpanjangan Masa Tanggap Darurat Bencana di Sumut - Diskominfo Sumut",
+    "source": "Diskominfo Sumut",
+    "pub_date": "2025-12-10T08:00:00Z",
+    "desc": "Hasil Rapat Evaluasi Merekomendasikan Perpanjangan Masa Tanggap Darurat Bencana di Sumut Diskominfo Sumut",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHdxakRwd3hpbXlEWVAxZEtBZ3RhYVFGS1FzVGFKeDZOdjVGaFU2emdQWUhrTlA2bE5jYWl2N1JZa3Q5M2VZQlo1djJXS2hvSnFFREFJTzZ0MThKdnNZQlVsRzFpVEtKQUgtb09fc09FaW9vcDRFeUVIVk5tbmdCZlg1UzFDaWZKSXJqcnpkTmdjVVNYSW1VRENhd0prbldQZnJkbmxwSGcwTmI4NEEzMGRDRnBTWVJkc0NWM0ItcmNEZDNZSDJ4eEJ4cWl0ck02?oc=5"
+  },
+  {
+    "topic": "darurat",
     "title": "Video Masa Tanggap Darurat Banjir Bandang Sumbar Diperpanjang 14 Hari - 20detik",
     "source": "20detik",
     "pub_date": "2025-12-09T08:00:00Z",
@@ -117870,6 +118590,14 @@
     "pub_date": "2024-09-13T07:00:00Z",
     "desc": "Peletakan Batu Pertama, Pembangunan Rumah Relokasi Terpadu Pasca Galodo Dimulai Website Tanah Datar",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWRTX1VYblJtdlRWcDlxdzFZSzA4bkNtLWRFVWQ4N3pwYk94RTNlaUZqODhZZ3NRdTVXLXhtT3E3c05TcFB2elc5SS1wN2FQczJxQjMtSVRya0htcTBYUmd2T2EzRTh0RzFHVTFfbmJfQk9jZzNJQmZkUXFpSjIxbmdxekppa2xPSjhkbDVYT093b1ZPVUNfcnhCdllYOUNwQ1oxRG1SWmpIODZ1Rklv?oc=5"
+  },
+  {
+    "topic": "pemulihan",
+    "title": "Pembangunan Rumah Relokasi Terpadu untuk Korban Bencana Alam di Kabupaten Tanah Datar - Kementerian Perumahan dan Kawasan Permukiman (PKP)",
+    "source": "Kementerian Perumahan dan Kawasan Permukiman (PKP)",
+    "pub_date": "2024-09-13T07:00:00Z",
+    "desc": "Pembangunan Rumah Relokasi Terpadu untuk Korban Bencana Alam di Kabupaten Tanah Datar Kementerian Perumahan dan Kawasan Permukiman (PKP)",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFZJSk5IcDYwOG8yQWZJNDdsU3JFc3I0cTdJVkpfeVJfSVloSEZicDJvTlJBVDNydFZ1VTM2a1FUNXNPUjNiYlNtc0syc2VSdnlXbTlSWFVWeXBxQlNzTXF3MElRZXlxdl9JVFJYbVRmMDJVOW1jSktVUmV0cjVmUEVfVXdKSmxOM1A4QTF5dHY5N3ZBX1lPNEpONU55QUUzc0VOWkhFNElpT25Da0VGZjkxZVVXMUVxLUt2aFpZMTRsd3lvTlRMU1FVWDRGZUFuMG52MlN3RQ?oc=5"
   },
   {
     "topic": "pemulihan",
